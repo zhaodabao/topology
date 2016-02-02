@@ -1,5 +1,5 @@
 # Topology
-# 仍在构建中, 很快与大家见面! Still in building, and meet you soon!
+# 仍在构建中, 很快与大家见面! Still in building, and meet with you soon!
 ## 网络拓扑 Network Topology
 网络拓扑是指由网络节点设备和通信介质构成的网络结构图(来自百度百科).  
 Network topologic structure is a kind of diagrams that be composed of network node equipment and communication medium(from Baidu baike).
