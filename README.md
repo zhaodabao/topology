@@ -16,7 +16,7 @@ Topology was developed in 2013, to be clear, the Topology in GitHub just a simpl
 ## 特性 Feature
 
 ## 贡献 Contribution
-[Wang Zhenhua](wangzhenhua1020@126.com)  
+Wang Zhenhua <wangzhenhua1020@126.com>  
 [Lu Qin](https://github.com/luqin)
 
 ## 协议 License
