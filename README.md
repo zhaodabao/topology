@@ -2,7 +2,7 @@
 # 仍在构建中, 很快与大家见面! Still in building, and meet you soon!
 ## 网络拓扑 Network Topology
 网络拓扑是指由网络节点设备和通信介质构成的网络结构图(来自百度百科).  
-network topologic structure is a kind of diagrams that be composed of network node equipment and communication medium(from Baidu baike).
+Network topologic structure is a kind of diagrams that be composed of network node equipment and communication medium(from Baidu baike).
 ## 项目简介 About Project
 这个Repository提供的网络拓扑, 是一套完整可用的面向电信级/企业级用户的HTML5网络拓扑图方案. 图形是基于SVG绘制的, 同时配备了一系列UI套件, 使您更直观的了解Topology是如何工作的.  
 This solution is a complex html5 graphical system, be used to telecom/enterprise user. Graphical based on SVG, and offer a series of UI kits, so that you will comprehend the project how to work.  
