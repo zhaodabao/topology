@@ -12,3 +12,12 @@ Topology其实是在2013年开发的, 需要说明的是, 在GitHub上的这个T
 Topology was developed in 2013, to be clear, the Topology in GitHub just a simple example, or a thin version. The reason: First, I only retain the part of rich client(I think the Server is secondary); Second, the integrated Topology include a lots of graphics solutions(such as business impact and correlation analysis, virtual private networks, virtualized resources networks in cloud computing, etc.), let's simplify, and take the focus on the technology.  
 
 ![preview 1](https://github.com/zhaodabao/topology/raw/master/images/preview/preview1.png "Preview Image 1") ![preview 2](https://github.com/zhaodabao/topology/raw/master/images/preview/preview2.png "Preview Image 2")
+
+## 特性 Feature
+
+## 贡献 Contribution
+[Wang Zhenhua](wangzhenhua1020@126.com)  
+[Lu Qin](https://github.com/luqin)
+
+## 协议 License
+GPL, GNU GENERAL PUBLIC LICENSE
