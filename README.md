@@ -13,9 +13,9 @@ Topology was developed in 2013, to be clear, the Topology in GitHub is just a si
 
 ## 效果预览 Screenshot
 Main Screenshot  
-![screenshot 1](https://github.com/zhaodabao/topology/raw/master/images/preview/preview1.png "Preview Image 1")  
+![screenshot 1](https://github.com/zhaodabao/topology/raw/master/images/preview/preview1.png "Main Screenshot")  
 Edit Screenshot  
-![screenshot 2](https://github.com/zhaodabao/topology/raw/master/images/preview/preview2.png "Preview Image 2")
+![screenshot 2](https://github.com/zhaodabao/topology/raw/master/images/preview/preview2.png "Edit Screenshot")
 
 ## 特性 Feature
 
