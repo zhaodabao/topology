@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43" height="18" viewBox="0 0 43 18">
+<g>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#0D96D4;" points="0,9.722 0,17.958 32.853,17.958 32.853,9.722 0,9.722 
+			"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#0D96D4;" points="0,9.722 0,17.958 32.853,17.958 32.853,9.722 0,9.722 
+			"/>
+	
+		<rect y="9.722" style="fill:none;stroke:#AEE2FA;stroke-width:0.293;stroke-linecap:round;stroke-miterlimit:10;" width="32.853" height="8.235"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#015B80;" points="32.853,9.722 43.001,0 43.001,8.247 32.853,17.958 	
+		"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#015B80;" points="32.853,9.722 43.001,0 43.001,8.247 32.853,17.958 	
+		"/>
+	<polygon style="fill:none;stroke:#AEE2FA;stroke-width:0.293;stroke-linecap:round;stroke-miterlimit:10;" points="32.853,9.722 
+		43.001,0 43.001,8.247 32.853,17.958 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#45AFE3;" points="32.853,9.722 43.001,0 10.158,0 0,9.722 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#45AFE3;" points="32.853,9.722 43.001,0 10.158,0 0,9.722 	"/>
+	<polygon style="fill:none;stroke:#AEE2FA;stroke-width:0.293;stroke-linecap:round;stroke-miterlimit:10;" points="32.853,9.722 
+		43.001,0 10.158,0 0,9.722 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#010101;" points="10.75,3.537 8.964,5.306 28.667,5.306 27.177,6.771 
+		35.539,4.72 31.363,2.658 30.464,3.537 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#010101;" points="10.75,3.537 8.964,5.306 28.667,5.306 27.177,6.771 
+		35.539,4.72 31.363,2.658 30.464,3.537 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="11.057,3.83 9.26,5.306 28.974,5.306 27.474,6.771 
+		35.539,5.013 31.66,2.951 30.464,3.83 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="11.057,3.83 9.26,5.306 28.974,5.306 27.474,6.771 
+		35.539,5.013 31.66,2.951 30.464,3.83 	"/>
+</g>
+</svg>
