@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="43" viewBox="0 0 35 43">
+<g>
+	<polygon fill="#0D96D4" points="0,4.249 0,34.518 15.026,43.38 29.885,34.518 29.885,4.249 	"/>
+	<polygon fill="none" stroke="#AEE2FA" stroke-width="0.4563" stroke-miterlimit="1" points="0,4.249 0,34.518 15.026,43.38 
+		29.885,34.518 29.885,4.249 	"/>
+	<polygon fill="#015B80" points="15.026,6.041 15.026,19.649 28.275,19.649 28.275,6.041 	"/>
+	<polygon fill="#015B80" points="15.026,41.256 1.811,33.29 1.811,19.649 15.026,19.649 	"/>
+	<polygon fill="#FFFFFF" points="28.275,33.29 15.026,41.256 15.026,19.649 28.275,19.649 	"/>
+	<polygon fill="#FFFFFF" points="1.811,6.041 1.811,19.649 15.026,19.649 15.026,6.041 	"/>
+	<polygon fill="#45AFE3" points="29.885,4.249 34.177,0 4.494,0 0,4.249 	"/>
+	<polygon fill="none" stroke="#AEE2FA" stroke-width="0.4563" stroke-miterlimit="1" points="29.885,4.249 34.177,0 4.494,0 
+		0,4.249 	"/>
+	<polygon fill="#015B80" points="29.885,4.249 29.885,34.518 34.177,30.104 34.177,0 	"/>
+	<polygon fill="none" stroke="#AEE2FA" stroke-width="0.4563" stroke-miterlimit="1" points="29.885,4.249 29.885,34.518 
+		34.177,30.104 34.177,0 	"/>
+</g>
+</svg>
