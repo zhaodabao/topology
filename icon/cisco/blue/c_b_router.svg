@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="32" viewBox="0 0 54 32">
+<g>
+	<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#0978AA;" d="M53.65,22.152c0,5.089-11.967,9.203-26.733,9.203
+		c-14.756,0-26.733-4.114-26.733-9.203c0-5.088,11.977-9.214,26.733-9.214C41.683,12.938,53.65,17.064,53.65,22.152"/>
+	<path style="fill:none;stroke:#AEE2FA;stroke-width:0.3209;stroke-linecap:round;stroke-miterlimit:10;" d="M53.65,22.152
+		c0,5.089-11.967,9.203-26.733,9.203c-14.756,0-26.733-4.114-26.733-9.203c0-5.088,11.977-9.214,26.733-9.214
+		C41.683,12.938,53.65,17.064,53.65,22.152"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#0978AA;" points="0.184,9.375 0.184,22.313 53.328,22.313 53.328,9.375 
+		0.184,9.375 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#0978AA;" points="0.184,9.375 0.184,22.313 53.328,22.313 53.328,9.375 
+		0.184,9.375 	"/>
+	<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#45AFE3;" d="M53.65,9.214c0,5.088-11.967,9.213-26.733,9.213
+		c-14.756,0-26.733-4.125-26.733-9.213S12.161,0,26.917,0C41.683,0,53.65,4.126,53.65,9.214"/>
+	<path style="fill:none;stroke:#AEE2FA;stroke-width:0.3209;stroke-linecap:round;stroke-miterlimit:10;" d="M53.65,9.214
+		c0,5.088-11.967,9.213-26.733,9.213c-14.756,0-26.733-4.125-26.733-9.213S12.161,0,26.917,0C41.683,0,53.65,4.126,53.65,9.214"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#010101;" points="27.41,7.117 31.292,8.412 40.697,4.527 44.912,5.822 
+		42.636,2.59 31.625,2.59 36.16,3.564 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#010101;" points="27.41,7.117 31.292,8.412 40.697,4.527 44.912,5.822 
+		42.636,2.59 31.625,2.59 36.16,3.564 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#010101;" points="25.791,10.669 21.898,9.375 12.827,13.26 
+		8.291,11.965 10.553,15.517 21.898,15.517 17.041,14.234 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#010101;" points="25.791,10.669 21.898,9.375 12.827,13.26 
+		8.291,11.965 10.553,15.517 21.898,15.517 17.041,14.234 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#010101;" points="9.267,3.564 13.148,2.269 22.553,5.822 26.756,4.859 
+		24.494,8.091 13.47,8.091 18.005,7.117 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#010101;" points="9.267,3.564 13.148,2.269 22.553,5.822 26.756,4.859 
+		24.494,8.091 13.47,8.091 18.005,7.117 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#010101;" points="44.255,14.555 40.375,15.85 31.292,11.965 
+		26.756,13.26 29.029,10.028 40.375,10.028 35.505,10.99 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#010101;" points="44.255,14.555 40.375,15.85 31.292,11.965 
+		26.756,13.26 29.029,10.028 40.375,10.028 35.505,10.99 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="27.731,7.438 31.625,8.733 41.017,4.859 45.232,6.143 
+		42.958,2.911 31.947,2.911 36.482,3.885 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="27.731,7.438 31.625,8.733 41.017,4.859 45.232,6.143 
+		42.958,2.911 31.947,2.911 36.482,3.885 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="26.113,10.99 22.22,9.707 13.148,13.581 8.612,12.286 
+		10.886,15.85 22.22,15.85 17.362,14.555 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="26.113,10.99 22.22,9.707 13.148,13.581 8.612,12.286 
+		10.886,15.85 22.22,15.85 17.362,14.555 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="9.588,3.885 13.47,2.59 22.875,6.143 27.089,5.18 
+		24.815,8.412 13.803,8.412 18.338,7.438 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="9.588,3.885 13.47,2.59 22.875,6.143 27.089,5.18 
+		24.815,8.412 13.803,8.412 18.338,7.438 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="44.578,14.875 40.697,16.171 31.625,12.286 
+		27.089,13.581 29.351,10.349 40.697,10.349 35.828,11.323 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="44.578,14.875 40.697,16.171 31.625,12.286 
+		27.089,13.581 29.351,10.349 40.697,10.349 35.828,11.323 	"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_1_" points="0,9.168 0.551,9.168 0.551,22.004 0,22.004 0,9.168 			"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		
+			<line style="clip-path:url(#SVGID_2_);fill:none;stroke:#AEE2FA;stroke-width:0.3209;stroke-linecap:round;stroke-miterlimit:10;" x1="0.184" y1="-3.874" x2="0.184" y2="34.92"/>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_3_" points="53.099,9.168 53.65,9.168 53.65,22.004 53.099,22.004 53.099,9.168 			"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		
+			<line style="clip-path:url(#SVGID_4_);fill:none;stroke:#AEE2FA;stroke-width:0.3209;stroke-linecap:round;stroke-miterlimit:10;" x1="53.328" y1="-3.874" x2="53.328" y2="34.92"/>
+	</g>
+</g>
+</svg>
