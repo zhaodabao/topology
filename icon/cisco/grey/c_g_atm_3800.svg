@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33" height="38" viewBox="0 0 33 38" version="1.1">
+<g id="surface0">
+<path style="fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:4;" d="M 1.3125 25.355469 L 3.472656 27.648438 " transform="matrix(1,0,0,-1,0,38)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(50.000763%,50.000763%,50.000763%);fill-opacity:1;" d="M 28.296875 21.324219 L 0.300781 5.324219 L 0.300781 37.328125 L 28.296875 21.324219 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(70.000763%,70.000763%,70.000763%);fill-opacity:1;" d="M 28.039062 21.519531 L 0.300781 5.355469 L 4.800781 0.855469 L 32.539062 17.019531 L 28.039062 21.519531 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 7.179688 13.652344 L 3.34375 16.53125 L 7.933594 18.5 L 7.179688 13.652344 "/>
+<path style="fill:none;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:3.86;" d="M 2.367188 26.453125 L 5.546875 22.511719 " transform="matrix(1,0,0,-1,0,38)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 7.179688 29.847656 L 3.34375 26.96875 L 7.933594 25 L 7.179688 29.847656 "/>
+<path style="fill:none;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:3.86;" d="M 2.367188 6.046875 L 5.546875 9.988281 " transform="matrix(1,0,0,-1,0,38)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 19.527344 19.28125 L 19.394531 24.078125 L 23.789062 21.714844 L 19.527344 19.28125 "/>
+<path style="fill:none;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:3.86;" d="M 14.886719 16.265625 L 19.949219 16.296875 " transform="matrix(1,0,0,-1,0,38)"/>
+</g>
+</svg>
