@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34" height="45" viewBox="0 0 34 45">
+<path fill="#F0F0F0" stroke="#383874" stroke-width="0.5315" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M6.236,40.182c4.996,2.516,10.559,3.791,16.157,3.721c1.844-0.036,3.614-0.496,5.209-1.348c0.53,0.531,1.383,0.674,2.092,0.319
+	c1.559-0.744,2.799-2.021,3.471-3.544l0,0V29.126c-0.283-5.387-3.719-10.099-8.787-12.119 M9.886,16.015
+	c-5.139,2.091-8.575,6.91-8.823,12.331l0,0l0.036,5.776c0,1.487,0.673,2.905,1.842,3.826c0.566,0.53,1.382,0.674,2.091,0.354
+	c0.071,0.779,0.531,1.453,1.205,1.878"/>
+<polygon fill="#F0F0F0" points="9.882,9.09 5.947,41.4 24.494,16.287 "/>
+<circle fill="#F0F0F0" cx="17.2" cy="10.2" r="9"/>
+<path fill="none" stroke="#565656" stroke-width="0.5315" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M27.106,10.417c0-5.173-4.287-9.354-9.566-9.354c-5.28,0-9.566,4.181-9.566,9.354s4.286,9.354,9.566,9.354
+	C22.819,19.771,27.106,15.59,27.106,10.417"/>
+<path fill="none" stroke="#565656" stroke-width="0.5315" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M5.032,38.303c-1.063-6.13-0.071-12.26,2.941-17.681"/>
+<path fill="none" stroke="#565656" stroke-width="0.5315" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M27.602,42.555c0.709-6.307,0.213-12.578-1.381-18.709"/>
+<path fill="none" stroke="#565656" stroke-width="0.5315" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M9.886,15.838c3.188,4.146,9.177,4.996,13.394,1.878c0.389-0.248,0.709-0.532,1.027-0.851"/>
+<path fill="none" stroke="#010101" stroke-width="1.5236" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M9.886,16.015c-5.103,2.162-8.505,6.91-8.823,12.331l0,0l0.036,5.776c0,1.487,0.673,2.905,1.842,3.826
+	c0.566,0.53,1.382,0.674,2.091,0.354c0.071,0.779,0.531,1.453,1.205,1.878c4.996,2.516,10.559,3.791,16.157,3.721
+	c1.844-0.035,3.614-0.495,5.209-1.346c0.53,0.53,1.383,0.672,2.092,0.318c1.559-0.744,2.799-2.021,3.471-3.544l0,0v-9.283
+	c0.144-5.705-3.365-10.914-8.787-13.04l0,0h-0.069c3.721-3.649,3.721-9.567-0.035-13.216c-3.721-3.65-9.78-3.65-13.5,0
+	C7.406,7.086,7.016,12.295,9.886,16.015L9.886,16.015z"/>
+</svg>

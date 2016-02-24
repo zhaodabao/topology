@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="55" viewBox="0 0 40 55">
+<g>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M15.023,21.26L38.835,8.22l-14.74-7.937L0.284,13.323C4.252,17.292,9.354,20.126,15.023,21.26
+				L15.023,21.26L15.023,21.26L15.023,21.26z"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="-0.851,-0.851 
+			-0.851,-0.284 39.402,-0.284 39.402,-0.851 -0.851,-0.851 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E1D8C2" points="-0.851,-0.284 -0.851,0.283 
+			39.402,0.283 39.402,-0.284 -0.851,-0.284 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E2D9C3" points="-0.851,0.283 -0.851,0.851 
+			39.402,0.851 39.402,0.283 -0.851,0.283 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E3DAC6" points="-0.851,0.851 -0.851,1.417 
+			39.402,1.417 39.402,0.851 -0.851,0.851 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E4DBC7" points="-0.851,1.417 -0.851,1.984 
+			39.402,1.984 39.402,1.417 -0.851,1.417 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E5DDC8" points="-0.851,1.984 -0.851,2.551 
+			39.402,2.551 39.402,1.984 -0.851,1.984 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E6DECA" points="-0.851,2.551 -0.851,3.118 
+			39.402,3.118 39.402,2.551 -0.851,2.551 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E5DECD" points="-0.851,3.118 -0.851,3.685 
+			39.402,3.685 39.402,3.118 -0.851,3.118 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E6DFCD" points="-0.851,3.685 -0.851,4.252 
+			39.402,4.252 39.402,3.685 -0.851,3.685 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E7E0CF" points="-0.851,4.252 -0.851,4.819 
+			39.402,4.819 39.402,4.252 -0.851,4.252 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E8E2D1" points="-0.851,4.819 -0.851,5.386 
+			39.402,5.386 39.402,4.819 -0.851,4.819 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E8E3D2" points="-0.851,5.386 -0.851,5.953 
+			39.402,5.953 39.402,5.386 -0.851,5.386 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#EAE3D3" points="-0.851,5.953 -0.851,6.52 
+			39.402,6.52 39.402,5.953 -0.851,5.953 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#EAE4D5" points="-0.851,6.52 -0.851,7.086 
+			39.402,7.086 39.402,6.52 -0.851,6.52 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#EAE6D6" points="-0.851,7.086 -0.851,7.653 
+			39.402,7.653 39.402,7.086 -0.851,7.086 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#ECE7D7" points="-0.851,7.653 -0.851,8.22 
+			39.402,8.22 39.402,7.653 -0.851,7.653 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#EDE8D9" points="-0.851,8.22 -0.851,8.787 
+			39.402,8.787 39.402,8.22 -0.851,8.22 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#EEE9DB" points="-0.851,8.787 -0.851,9.354 
+			39.402,9.354 39.402,8.787 -0.851,8.787 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#EEEADD" points="-0.851,9.354 -0.851,9.921 
+			39.402,9.921 39.402,9.354 -0.851,9.354 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#EFEADE" points="-0.851,9.921 -0.851,10.488 
+			39.402,10.488 39.402,9.921 -0.851,9.921 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#EFEBE0" points="-0.851,10.488 
+			-0.851,11.055 39.402,11.055 39.402,10.488 -0.851,10.488 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F0EDE1" points="-0.851,11.055 
+			-0.851,11.622 39.402,11.622 39.402,11.055 -0.851,11.055 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F2EEE3" points="-0.851,11.622 
+			-0.851,12.189 39.402,12.189 39.402,11.622 -0.851,11.622 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F2EEE5" points="-0.851,12.189 
+			-0.851,12.756 39.402,12.756 39.402,12.189 -0.851,12.189 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F3F0E8" points="-0.851,12.756 
+			-0.851,13.323 39.402,13.323 39.402,12.756 -0.851,12.756 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F4F0E8" points="-0.851,13.323 -0.851,13.89 
+			39.402,13.89 39.402,13.323 -0.851,13.323 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F5F1EA" points="-0.851,13.89 -0.851,14.457 
+			39.402,14.457 39.402,13.89 -0.851,13.89 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F7F4EC" points="-0.851,14.457 
+			-0.851,15.023 39.402,15.023 39.402,14.457 -0.851,14.457 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F8F5ED" points="-0.851,15.023 -0.851,15.59 
+			39.402,15.59 39.402,15.023 -0.851,15.023 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F8F4EF" points="-0.851,15.59 -0.851,16.157 
+			39.402,16.157 39.402,15.59 -0.851,15.59 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F9F6F1" points="-0.851,16.157 
+			-0.851,16.725 39.402,16.725 39.402,16.157 -0.851,16.157 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FAF8F3" points="-0.851,16.725 
+			-0.851,17.292 39.402,17.292 39.402,16.725 -0.851,16.725 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F9F8F3" points="-0.851,17.292 
+			-0.851,17.858 39.402,17.858 39.402,17.292 -0.851,17.292 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FAF9F4" points="-0.851,17.858 
+			-0.851,18.425 39.402,18.425 39.402,17.858 -0.851,17.858 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FCFAF6" points="-0.851,18.425 
+			-0.851,18.992 39.402,18.992 39.402,18.425 -0.851,18.425 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FCFAF8" points="-0.851,18.992 
+			-0.851,19.559 39.402,19.559 39.402,18.992 -0.851,18.992 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FCFCF9" points="-0.851,19.559 
+			-0.851,20.126 39.402,20.126 39.402,19.559 -0.851,19.559 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FDFEFC" points="-0.851,20.126 
+			-0.851,20.693 39.402,20.693 39.402,20.126 -0.851,20.126 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="-0.851,20.693 -0.851,21.26 
+			39.402,21.26 39.402,20.693 -0.851,20.693 		"/>
+	</g>
+	
+		<path fill="none" stroke="#A78450" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M14.669,20.977L38.587,7.973L23.74,0.035L0,12.933C3.792,17.079,8.965,19.914,14.669,20.977"/>
+	<g>
+		<defs>
+			<path fill="#A78450" id="SVGID_3_" d="M15.023,21.26c-5.669-1.134-10.771-3.968-14.74-7.937l0,0v32.882c3.968,3.968,9.071,6.803,14.74,7.37l0,0
+				V21.26L15.023,21.26L15.023,21.26z"/>
+		</defs>
+	</g>
+		<polygon fill="#FAF8F3" stroke="none" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		14.669,20.977 14.669,53.539 1,46.142 1,13.473 14.669,20.977 	"/>
+		<path fill="none" stroke="#A78450" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M14.669,20.977c-5.74-1.028-10.914-3.898-14.634-8.079l0,0v33.271C3.862,50.138,9,52.76,14.669,53.575l0,0V20.977"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_5_" fill="#FAF8F3" points="15.023,21.26 15.023,53.575 38.835,41.103 38.835,8.22 15.023,21.26 			"/>
+		</defs>
+	</g>
+	
+		<polygon fill="#FAF8F3" stroke="#A78450" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		14.669,20.977 14.669,53.539 38.587,40.642 38.587,7.973 14.669,20.977 	"/>
+	
+		<path fill="none" stroke="#010101" stroke-width="1.1339" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M38.587,7.973L23.74,0L0,12.933l0.036,33.236C3.862,50.138,9,52.76,14.669,53.575l0,0l23.918-12.934V7.973L38.587,7.973z"/>
+	<g>
+		<defs>
+			<path id="SVGID_7_" d="M8.221,34.299c-0.567-0.566-1.134-1.134-1.701-1.134c-0.567,0.567-1.134,1.134-0.567,2.268
+				C6.52,36,7.086,36.566,7.653,36C8.221,36,8.221,35.433,8.221,34.299"/>
+		</defs>
+		<clipPath id="SVGID_8_">
+			<use xlink:href="#SVGID_7_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_8_)">
+			<defs>
+				<polygon id="SVGID_9_" fill="#FAF8F3" points="5.882,37.099 9.036,35.929 7.618,31.996 4.465,33.165 				"/>
+			</defs>
+			<clipPath id="SVGID_10_">
+				<use xlink:href="#SVGID_9_"  overflow="visible"/>
+			</clipPath>
+		</g>
+		<circle cx="7" cy="35" r="2" fill="green" />
+	</g>
+	
+		<path fill="none" stroke="#010101" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M7.795,34.157c-0.284-0.779-0.992-1.24-1.559-1.027c-0.603,0.213-0.815,0.992-0.532,1.807c0.284,0.78,0.992,1.24,1.559,1.028
+		C7.866,35.752,8.079,34.973,7.795,34.157"/>
+	
+		<path fill="none" stroke="#010101" stroke-width="0.4606" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M2.374,39.827c2.977,2.409,6.343,4.146,9.921,5.066 M2.374,41.811c2.977,2.41,6.343,4.146,9.921,5.067 M2.374,43.795
+		c2.977,2.41,6.343,4.146,9.921,5.067"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#010101" d="M2.339,20.055c2.834,2.409,6.236,4.146,9.886,5.102
+		c0.283-0.071,0.46-0.319,0.39-0.567c-0.036-0.177-0.177-0.319-0.39-0.354c-3.579-0.921-6.91-2.622-9.673-4.925
+		c-0.142-0.142-0.354-0.106-0.46,0c-0.071,0.071-0.106,0.142-0.106,0.248C2.02,19.771,2.162,19.949,2.339,20.055"/>
+	
+		<path fill="none" stroke="#010101" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M2.339,20.055c2.834,2.409,6.236,4.146,9.886,5.102c0.283-0.071,0.46-0.319,0.39-0.567c-0.036-0.177-0.177-0.319-0.39-0.354
+		c-3.579-0.921-6.91-2.622-9.673-4.925c-0.142-0.142-0.354-0.106-0.46,0c-0.071,0.071-0.106,0.142-0.106,0.248
+		C2.02,19.771,2.162,19.949,2.339,20.055"/>
+	<g>
+		<defs>
+			<path id="SVGID_11_" d="M8.221,24.094c-0.567-1.701-1.701-2.268-2.835-1.134c0,0.567,0.567,1.134,1.701,1.134
+				C7.653,24.094,8.221,24.094,8.221,24.094"/>
+		</defs>
+		<clipPath id="SVGID_12_">
+			<use xlink:href="#SVGID_11_"  overflow="visible"/>
+		</clipPath>
+	</g>
+	
+		<path fill="none" stroke="#FFFFFF" stroke-width="0.1063" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M8.185,23.953c-0.603-1.701-1.914-2.338-2.977-1.488c-0.319,0.673,0.461,1.311,1.772,1.488C7.37,23.988,7.795,23.988,8.185,23.953"
+		/>
+	<g>
+		<defs>
+			<path id="SVGID_13_" d="M2.551,22.96v2.835c2.834,2.267,6.236,3.968,10.205,5.102l0,0v-2.835
+				C8.788,26.929,5.386,25.229,2.551,22.96L2.551,22.96z"/>
+		</defs>
+		<clipPath id="SVGID_14_">
+			<use xlink:href="#SVGID_13_"  overflow="visible"/>
+		</clipPath>
+	</g>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#010101" d="M2.374,23.953c2.834,2.374,6.236,4.11,9.921,5.067l0,0v-0.638
+		c-3.65-1.027-7.016-2.764-9.921-5.103l0,0V23.953L2.374,23.953z"/>
+	
+		<path fill="none" stroke="#FFFFFF" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M2.374,22.748v2.586c2.905,2.303,6.271,4.04,9.921,5.067"/>
+	
+		<path fill="none" stroke="#010101" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M12.295,30.508v-2.587c-3.65-1.063-7.016-2.799-9.921-5.102"/>
+</g>
+</svg>

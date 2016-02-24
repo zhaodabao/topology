@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58" height="103" viewBox="0 0 58 103">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1.812" y1="53.1416" x2="57.3281" y2="53.1416">
+	<stop  offset="0" style="stop-color:#EAEAEA"/>
+	<stop  offset="0.06" style="stop-color:#DDDEE0"/>
+	<stop  offset="0.92" style="stop-color:#C6C8CB"/>
+	<stop  offset="1" style="stop-color:#EAEAEA"/>
+</linearGradient>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" d="M57.328,2.356l-0.026,100.421
+	c-0.347,0.941-3.646,1.143-4.692,1.149H6.69c-0.969-0.007-4.617-0.195-4.718-1.28V2.356C2.179,3.462,5.632,3.63,6.69,3.637h45.919
+	C53.667,3.63,57.121,3.462,57.328,2.356z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#6C6B6B" d="M57.328,101.408v1.242c-0.211,1.103-3.662,1.271-4.719,1.277H6.69
+	c-1.058-0.007-4.511-0.175-4.718-1.28v-1.239c0.207,1.106,3.66,1.273,4.718,1.282h45.919
+	C53.667,102.681,57.121,102.514,57.328,101.408z"/>
+<rect x="5.846" y="15.239" fill-rule="evenodd" clip-rule="evenodd" fill="#323233" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="22.9256" width="46.399" height="85.089"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="29.0464" y1="94.2544" x2="29.0464" y2="91.367">
+	<stop  offset="0" style="stop-color:#7A7C7D"/>
+	<stop  offset="0.51" style="stop-color:#4B5151"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<rect x="5.942" y="89.779" fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_2_)" width="46.209" height="8.585"/>
+<rect x="5.784" y="93.453" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="46.525" height="6.107"/>
+<rect x="5.784" y="94.458" fill-rule="evenodd" clip-rule="evenodd" width="46.525" height="6.107"/>
+<rect x="5.784" y="93.852" fill-rule="evenodd" clip-rule="evenodd" fill="#323233" width="46.525" height="6.106"/>
+<rect x="7.151" y="95.085" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="10.656" y="95.085" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="14.163" y="95.085" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="17.668" y="95.085" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="21.172" y="95.085" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="24.679" y="95.085" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="30.146" y="95.085" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="33.65" y="95.085" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="37.157" y="95.085" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="40.662" y="95.085" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="44.169" y="95.085" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="47.674" y="95.085" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="7.151" y="97.554" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="10.656" y="97.554" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="14.163" y="97.554" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="17.668" y="97.554" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="21.172" y="97.554" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="24.679" y="97.554" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="30.146" y="97.554" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="33.65" y="97.554" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="37.157" y="97.554" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="40.662" y="97.554" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="44.169" y="97.554" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="47.674" y="97.554" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="7.151" y="94.886" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.039"/>
+<rect x="10.656" y="94.886" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.039"/>
+<rect x="14.163" y="94.886" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.039"/>
+<rect x="17.668" y="94.886" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.039"/>
+<rect x="21.172" y="94.886" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="24.679" y="94.886" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.318" height="1.039"/>
+<rect x="30.146" y="94.886" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.039"/>
+<rect x="33.65" y="94.886" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="37.157" y="94.886" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.317" height="1.039"/>
+<rect x="40.662" y="94.886" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="44.169" y="94.886" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.039"/>
+<rect x="47.674" y="94.886" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.039"/>
+<rect x="7.151" y="97.354" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.316" height="1.04"/>
+<rect x="10.656" y="97.354" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="17.668" y="97.354" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.317" height="1.04"/>
+<rect x="21.172" y="97.354" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="24.679" y="97.354" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="30.146" y="97.354" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="33.65" y="97.354" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="37.157" y="97.354" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="40.662" y="97.354" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="44.169" y="97.354" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="47.674" y="97.354" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="5.784" y="99.56" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="46.525" height="0.393"/>
+<rect x="14.145" y="97.354" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="29.0464" y1="85.2471" x2="29.0464" y2="82.3596">
+	<stop  offset="0" style="stop-color:#7A7C7D"/>
+	<stop  offset="0.51" style="stop-color:#4B5151"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<rect x="5.942" y="80.771" fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_3_)" width="46.209" height="8.585"/>
+<rect x="5.784" y="84.445" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="46.525" height="6.107"/>
+<rect x="5.784" y="85.45" fill-rule="evenodd" clip-rule="evenodd" width="46.525" height="6.106"/>
+<rect x="5.784" y="84.844" fill-rule="evenodd" clip-rule="evenodd" fill="#323233" width="46.525" height="6.106"/>
+<rect x="7.151" y="86.078" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="10.656" y="86.078" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="14.163" y="86.078" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="17.668" y="86.078" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="21.172" y="86.078" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="24.679" y="86.078" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="30.146" y="86.078" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="33.65" y="86.078" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="37.157" y="86.078" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="40.662" y="86.078" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="44.169" y="86.078" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="47.674" y="86.078" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="7.151" y="88.546" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="10.656" y="88.546" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="14.163" y="88.546" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="17.668" y="88.546" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="21.172" y="88.546" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="24.679" y="88.546" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="30.146" y="88.546" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="33.65" y="88.546" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="37.157" y="88.546" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="40.662" y="88.546" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="44.169" y="88.546" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="47.674" y="88.546" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="7.151" y="85.877" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="10.656" y="85.877" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="14.163" y="85.877" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.316" height="1.04"/>
+<rect x="17.668" y="85.877" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="21.172" y="85.877" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="24.679" y="85.877" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="30.146" y="85.877" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="33.65" y="85.877" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="37.157" y="85.877" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="40.662" y="85.877" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="44.169" y="85.877" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="47.674" y="85.877" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="7.151" y="88.346" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="10.656" y="88.346" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="17.668" y="88.346" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.317" height="1.04"/>
+<rect x="21.172" y="88.346" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="24.679" y="88.346" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.318" height="1.04"/>
+<rect x="30.146" y="88.346" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="33.65" y="88.346" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="37.157" y="88.346" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="40.662" y="88.346" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="44.169" y="88.346" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="47.674" y="88.346" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="5.784" y="90.552" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="46.525" height="0.393"/>
+<rect x="14.145" y="88.346" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="29.0464" y1="76.2388" x2="29.0464" y2="73.3513">
+	<stop  offset="0" style="stop-color:#7A7C7D"/>
+	<stop  offset="0.51" style="stop-color:#4B5151"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<rect x="5.942" y="71.763" fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_4_)" width="46.209" height="8.585"/>
+<rect x="5.784" y="75.438" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="46.525" height="6.106"/>
+<rect x="5.784" y="76.442" fill-rule="evenodd" clip-rule="evenodd" width="46.525" height="6.105"/>
+<rect x="5.784" y="75.836" fill-rule="evenodd" clip-rule="evenodd" fill="#323233" width="46.525" height="6.106"/>
+<rect x="7.151" y="77.069" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="10.656" y="77.069" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="14.163" y="77.069" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="17.668" y="77.069" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="21.172" y="77.069" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="24.679" y="77.069" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="30.146" y="77.069" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="33.65" y="77.069" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="37.157" y="77.069" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="40.662" y="77.069" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="44.169" y="77.069" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="47.674" y="77.069" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="7.151" y="79.538" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="10.656" y="79.538" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="14.163" y="79.538" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="17.668" y="79.538" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="21.172" y="79.538" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="24.679" y="79.538" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="30.146" y="79.538" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="33.65" y="79.538" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="37.157" y="79.538" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="40.662" y="79.538" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="44.169" y="79.538" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="47.674" y="79.538" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="7.151" y="76.87" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.316" height="1.039"/>
+<rect x="10.656" y="76.87" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.039"/>
+<rect x="14.163" y="76.87" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.316" height="1.039"/>
+<rect x="17.668" y="76.87" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.039"/>
+<rect x="21.172" y="76.87" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="24.679" y="76.87" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="30.146" y="76.87" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.039"/>
+<rect x="33.65" y="76.87" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="37.157" y="76.87" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.039"/>
+<rect x="40.662" y="76.87" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="44.169" y="76.87" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.039"/>
+<rect x="47.674" y="76.87" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.039"/>
+<rect x="7.151" y="79.338" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.039"/>
+<rect x="10.656" y="79.338" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.039"/>
+<rect x="17.668" y="79.338" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.039"/>
+<rect x="21.172" y="79.338" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="24.679" y="79.338" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="30.146" y="79.338" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.039"/>
+<rect x="33.65" y="79.338" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="37.157" y="79.338" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.039"/>
+<rect x="40.662" y="79.338" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="44.169" y="79.338" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.039"/>
+<rect x="47.674" y="79.338" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.039"/>
+<rect x="5.784" y="81.544" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="46.525" height="0.393"/>
+<rect x="14.145" y="79.338" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="29.0464" y1="67.23" x2="29.0464" y2="64.3428">
+	<stop  offset="0" style="stop-color:#7A7C7D"/>
+	<stop  offset="0.51" style="stop-color:#4B5151"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<rect x="5.942" y="62.754" fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_5_)" width="46.209" height="8.584"/>
+<rect x="5.784" y="66.43" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="46.525" height="6.104"/>
+<rect x="5.784" y="67.434" fill-rule="evenodd" clip-rule="evenodd" width="46.525" height="6.107"/>
+<rect x="5.784" y="66.828" fill-rule="evenodd" clip-rule="evenodd" fill="#323233" width="46.525" height="6.106"/>
+<rect x="7.151" y="68.06" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="10.656" y="68.06" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="14.163" y="68.06" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="17.668" y="68.06" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="21.172" y="68.06" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="24.679" y="68.06" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="30.146" y="68.06" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="33.65" y="68.06" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="37.157" y="68.06" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="40.662" y="68.06" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="44.169" y="68.06" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="47.674" y="68.06" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="7.151" y="70.529" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="10.656" y="70.529" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="14.163" y="70.529" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="17.668" y="70.529" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="21.172" y="70.529" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="24.679" y="70.529" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="30.146" y="70.529" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="33.65" y="70.529" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="37.157" y="70.529" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="40.662" y="70.529" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="44.169" y="70.529" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="47.674" y="70.529" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="7.151" y="67.862" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.039"/>
+<rect x="10.656" y="67.862" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.039"/>
+<rect x="14.163" y="67.862" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.039"/>
+<rect x="17.668" y="67.862" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.039"/>
+<rect x="21.172" y="67.862" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="24.679" y="67.862" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="30.146" y="67.862" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.039"/>
+<rect x="33.65" y="67.862" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="37.157" y="67.862" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.317" height="1.039"/>
+<rect x="40.662" y="67.862" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="44.169" y="67.862" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.039"/>
+<rect x="47.674" y="67.862" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.317" height="1.039"/>
+<rect x="7.151" y="70.33" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.316" height="1.04"/>
+<rect x="10.656" y="70.33" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="17.668" y="70.33" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="21.172" y="70.33" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="24.679" y="70.33" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="30.146" y="70.33" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="33.65" y="70.33" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.318" height="1.04"/>
+<rect x="37.157" y="70.33" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="40.662" y="70.33" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="44.169" y="70.33" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.316" height="1.04"/>
+<rect x="47.674" y="70.33" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="5.784" y="72.535" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="46.525" height="0.394"/>
+<rect x="14.145" y="70.33" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.318" height="1.04"/>
+<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="29.0464" y1="58.2222" x2="29.0464" y2="55.3349">
+	<stop  offset="0" style="stop-color:#7A7C7D"/>
+	<stop  offset="0.51" style="stop-color:#4B5151"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<rect x="5.942" y="53.747" fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_6_)" width="46.209" height="8.584"/>
+<rect x="5.784" y="57.421" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="46.525" height="6.106"/>
+<rect x="5.784" y="58.426" fill-rule="evenodd" clip-rule="evenodd" width="46.525" height="6.105"/>
+<rect x="5.784" y="57.819" fill-rule="evenodd" clip-rule="evenodd" fill="#323233" width="46.525" height="6.106"/>
+<rect x="7.151" y="59.052" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="10.656" y="59.052" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="14.163" y="59.052" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="17.668" y="59.052" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="21.172" y="59.052" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="24.679" y="59.052" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="30.146" y="59.052" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="33.65" y="59.052" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="37.157" y="59.052" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="40.662" y="59.052" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="44.169" y="59.052" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="47.674" y="59.052" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="7.151" y="61.521" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="10.656" y="61.521" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="14.163" y="61.521" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="17.668" y="61.521" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="21.172" y="61.521" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="24.679" y="61.521" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="30.146" y="61.521" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="33.65" y="61.521" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="37.157" y="61.521" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="40.662" y="61.521" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="44.169" y="61.521" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="47.674" y="61.521" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="7.151" y="58.854" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="10.656" y="58.854" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="14.163" y="58.854" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.316" height="1.04"/>
+<rect x="17.668" y="58.854" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="21.172" y="58.854" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="24.679" y="58.854" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="30.146" y="58.854" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.316" height="1.04"/>
+<rect x="33.65" y="58.854" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="37.157" y="58.854" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.317" height="1.04"/>
+<rect x="40.662" y="58.854" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="44.169" y="58.854" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="47.674" y="58.854" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.317" height="1.04"/>
+<rect x="7.151" y="61.322" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="10.656" y="61.322" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="17.668" y="61.322" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="21.172" y="61.322" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="24.679" y="61.322" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="30.146" y="61.322" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.316" height="1.04"/>
+<rect x="33.65" y="61.322" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.318" height="1.04"/>
+<rect x="37.157" y="61.322" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.317" height="1.04"/>
+<rect x="40.662" y="61.322" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="44.169" y="61.322" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="47.674" y="61.322" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="5.784" y="63.527" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="46.525" height="0.394"/>
+<rect x="14.145" y="61.322" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="29.0464" y1="49.2134" x2="29.0464" y2="46.3259">
+	<stop  offset="0" style="stop-color:#7A7C7D"/>
+	<stop  offset="0.51" style="stop-color:#4B5151"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<rect x="5.942" y="44.738" fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_7_)" width="46.209" height="8.585"/>
+<rect x="5.784" y="48.411" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="46.525" height="6.107"/>
+<rect x="5.784" y="49.417" fill-rule="evenodd" clip-rule="evenodd" width="46.525" height="6.106"/>
+<rect x="5.784" y="48.812" fill-rule="evenodd" clip-rule="evenodd" fill="#323233" width="46.525" height="6.106"/>
+<rect x="7.151" y="50.044" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="10.656" y="50.044" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="14.163" y="50.044" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="17.668" y="50.044" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="21.172" y="50.044" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="24.679" y="50.044" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="30.146" y="50.044" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="33.65" y="50.044" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="37.157" y="50.044" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="40.662" y="50.044" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="44.169" y="50.044" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="47.674" y="50.044" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="7.151" y="52.513" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="10.656" y="52.513" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="14.163" y="52.513" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="17.668" y="52.513" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="21.172" y="52.513" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="24.679" y="52.513" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="30.146" y="52.513" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="33.65" y="52.513" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="37.157" y="52.513" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="40.662" y="52.513" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="44.169" y="52.513" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="47.674" y="52.513" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="7.151" y="49.845" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="10.656" y="49.845" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="14.163" y="49.845" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="17.668" y="49.845" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="21.172" y="49.845" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.318" height="1.04"/>
+<rect x="24.679" y="49.845" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="30.146" y="49.845" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="33.65" y="49.845" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.318" height="1.04"/>
+<rect x="37.157" y="49.845" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="40.662" y="49.845" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="44.169" y="49.845" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="47.674" y="49.845" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.317" height="1.04"/>
+<rect x="7.151" y="52.313" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.316" height="1.039"/>
+<rect x="10.656" y="52.313" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.039"/>
+<rect x="17.668" y="52.313" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.317" height="1.039"/>
+<rect x="21.172" y="52.313" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="24.679" y="52.313" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="30.146" y="52.313" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.039"/>
+<rect x="33.65" y="52.313" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="37.157" y="52.313" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.039"/>
+<rect x="40.662" y="52.313" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="44.169" y="52.313" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.039"/>
+<rect x="47.674" y="52.313" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.039"/>
+<rect x="5.784" y="54.519" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="46.525" height="0.395"/>
+<rect x="14.145" y="52.313" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="29.0464" y1="40.2051" x2="29.0464" y2="37.3176">
+	<stop  offset="0" style="stop-color:#7A7C7D"/>
+	<stop  offset="0.51" style="stop-color:#4B5151"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<rect x="5.942" y="35.729" fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_8_)" width="46.209" height="8.585"/>
+<rect x="5.784" y="39.404" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="46.525" height="6.106"/>
+<rect x="5.784" y="40.409" fill-rule="evenodd" clip-rule="evenodd" width="46.525" height="6.106"/>
+<rect x="5.784" y="39.803" fill-rule="evenodd" clip-rule="evenodd" fill="#323233" width="46.525" height="6.106"/>
+<rect x="7.151" y="41.036" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="10.656" y="41.036" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="14.163" y="41.036" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="17.668" y="41.036" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="21.172" y="41.036" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="24.679" y="41.036" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="30.146" y="41.036" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="33.65" y="41.036" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="37.157" y="41.036" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="40.662" y="41.036" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="44.169" y="41.036" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="47.674" y="41.036" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="7.151" y="43.505" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="10.656" y="43.505" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="14.163" y="43.505" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="17.668" y="43.505" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="21.172" y="43.505" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="24.679" y="43.505" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="30.146" y="43.505" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="33.65" y="43.505" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="37.157" y="43.505" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="40.662" y="43.505" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="44.169" y="43.505" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="47.674" y="43.505" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="7.151" y="40.837" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.039"/>
+<rect x="10.656" y="40.837" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.039"/>
+<rect x="14.163" y="40.837" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.039"/>
+<rect x="17.668" y="40.837" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.039"/>
+<rect x="21.172" y="40.837" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="24.679" y="40.837" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="30.146" y="40.837" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.039"/>
+<rect x="33.65" y="40.837" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="37.157" y="40.837" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.039"/>
+<rect x="40.662" y="40.837" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="44.169" y="40.837" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.039"/>
+<rect x="47.674" y="40.837" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.317" height="1.039"/>
+<rect x="7.151" y="43.306" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.316" height="1.039"/>
+<rect x="10.656" y="43.306" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.039"/>
+<rect x="17.668" y="43.306" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.317" height="1.039"/>
+<rect x="21.172" y="43.306" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="24.679" y="43.306" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="30.146" y="43.306" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.039"/>
+<rect x="33.65" y="43.306" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="37.157" y="43.306" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.039"/>
+<rect x="40.662" y="43.306" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="44.169" y="43.306" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.039"/>
+<rect x="47.674" y="43.306" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.039"/>
+<rect x="5.784" y="45.51" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="46.525" height="0.394"/>
+<rect x="14.145" y="43.306" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.039"/>
+<rect x="5.942" y="26.721" fill-rule="evenodd" clip-rule="evenodd" width="46.209" height="8.586"/>
+<rect x="5.784" y="30.396" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="46.525" height="6.106"/>
+<rect x="5.784" y="31.401" fill-rule="evenodd" clip-rule="evenodd" width="46.525" height="6.107"/>
+<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="29.0464" y1="35.7632" x2="29.0464" y2="28.5567">
+	<stop  offset="0" style="stop-color:#3F4849"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<rect x="5.784" y="30.795" fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_9_)" width="46.525" height="6.106"/>
+<rect x="7.151" y="32.028" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="10.656" y="32.028" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="14.163" y="32.028" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="17.668" y="32.028" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="21.172" y="32.028" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="24.679" y="32.028" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="30.146" y="32.028" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="33.65" y="32.028" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="37.157" y="32.028" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="40.662" y="32.028" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="44.169" y="32.028" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="47.674" y="32.028" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="7.151" y="34.496" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.041"/>
+<rect x="10.656" y="34.496" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.041"/>
+<rect x="14.163" y="34.496" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.041"/>
+<rect x="17.668" y="34.496" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.041"/>
+<rect x="21.172" y="34.496" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.041"/>
+<rect x="24.679" y="34.496" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.041"/>
+<rect x="30.146" y="34.496" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.041"/>
+<rect x="33.65" y="34.496" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.041"/>
+<rect x="37.157" y="34.496" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.041"/>
+<rect x="40.662" y="34.496" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.041"/>
+<rect x="44.169" y="34.496" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.041"/>
+<rect x="47.674" y="34.496" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.041"/>
+<rect x="7.151" y="31.828" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="10.656" y="31.828" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="14.163" y="31.828" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.316" height="1.04"/>
+<rect x="17.668" y="31.828" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="21.172" y="31.828" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="24.679" y="31.828" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="30.146" y="31.828" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="33.65" y="31.828" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="37.157" y="31.828" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.317" height="1.04"/>
+<rect x="40.662" y="31.828" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="44.169" y="31.828" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="47.674" y="31.828" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="7.151" y="34.297" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="10.656" y="34.297" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="17.668" y="34.297" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.317" height="1.04"/>
+<rect x="21.172" y="34.297" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="24.679" y="34.297" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="30.146" y="34.297" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="33.65" y="34.297" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="37.157" y="34.297" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.317" height="1.04"/>
+<rect x="40.662" y="34.297" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="44.169" y="34.297" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="47.674" y="34.297" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.317" height="1.04"/>
+<rect x="5.784" y="36.502" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="46.525" height="0.394"/>
+<rect x="14.145" y="34.297" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="29.0464" y1="22.1895" x2="29.0464" y2="19.302">
+	<stop  offset="0" style="stop-color:#7A7C7D"/>
+	<stop  offset="0.51" style="stop-color:#4B5151"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<rect x="5.942" y="17.713" fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_10_)" width="46.209" height="8.585"/>
+<rect x="5.784" y="21.388" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="46.525" height="6.107"/>
+<rect x="5.784" y="22.393" fill-rule="evenodd" clip-rule="evenodd" width="46.525" height="6.106"/>
+<linearGradient id="SVGID_11_" gradientUnits="userSpaceOnUse" x1="29.0464" y1="31.0718" x2="29.0464" y2="21.7722">
+	<stop  offset="0" style="stop-color:#3F4849"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<rect x="5.784" y="21.787" fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_11_)" width="46.525" height="6.106"/>
+<rect x="7.151" y="23.02" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="10.656" y="23.02" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="14.163" y="23.02" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="17.668" y="23.02" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="21.172" y="23.02" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="24.679" y="23.02" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="30.146" y="23.02" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="33.65" y="23.02" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="37.157" y="23.02" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="40.662" y="23.02" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.04"/>
+<rect x="44.169" y="23.02" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.04"/>
+<rect x="47.674" y="23.02" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.04"/>
+<rect x="7.151" y="25.489" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="10.656" y="25.489" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="14.163" y="25.489" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="17.668" y="25.489" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="21.172" y="25.489" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="24.679" y="25.489" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="30.146" y="25.489" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="33.65" y="25.489" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="37.157" y="25.489" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="40.662" y="25.489" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.318" height="1.039"/>
+<rect x="44.169" y="25.489" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.316" height="1.039"/>
+<rect x="47.674" y="25.489" fill-rule="evenodd" clip-rule="evenodd" fill="#ABAAAA" width="2.317" height="1.039"/>
+<rect x="7.151" y="22.82" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="10.656" y="22.82" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="14.163" y="22.82" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.316" height="1.04"/>
+<rect x="17.668" y="22.82" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="21.172" y="22.82" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="24.679" y="22.82" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="30.146" y="22.82" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="33.65" y="22.82" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="37.157" y="22.82" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.317" height="1.04"/>
+<rect x="40.662" y="22.82" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="44.169" y="22.82" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="47.674" y="22.82" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="7.151" y="25.289" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="10.656" y="25.289" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="17.668" y="25.289" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.317" height="1.04"/>
+<rect x="21.172" y="25.289" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="24.679" y="25.289" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="30.146" y="25.289" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.316" height="1.04"/>
+<rect x="33.65" y="25.289" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<rect x="37.157" y="25.289" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="40.662" y="25.289" fill-rule="evenodd" clip-rule="evenodd" fill="#F2D80F" width="2.318" height="1.04"/>
+<rect x="44.169" y="25.289" fill-rule="evenodd" clip-rule="evenodd" width="2.316" height="1.04"/>
+<rect x="47.674" y="25.289" fill-rule="evenodd" clip-rule="evenodd" width="2.317" height="1.04"/>
+<rect x="5.784" y="27.495" fill-rule="evenodd" clip-rule="evenodd" fill="#7A7B7A" width="46.525" height="0.393"/>
+<rect x="14.145" y="25.289" fill-rule="evenodd" clip-rule="evenodd" width="2.318" height="1.04"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M56.355,20.919l-0.025,1.596c-0.354,0.412-3.713,0.501-4.778,0.504
+	H4.804C3.817,23.016,0.104,22.933,0,22.457v-1.538c0.21,0.484,3.728,0.558,4.804,0.562h46.749
+	C52.628,21.477,56.145,21.403,56.355,20.919z"/>
+<linearGradient id="SVGID_12_" gradientUnits="userSpaceOnUse" x1="-0.1626" y1="21.5615" x2="56.3558" y2="21.5615">
+	<stop  offset="0" style="stop-color:#EAEAEA"/>
+	<stop  offset="0.06" style="stop-color:#DDDEE0"/>
+	<stop  offset="0.92" style="stop-color:#C6C8CB"/>
+	<stop  offset="1" style="stop-color:#EAEAEA"/>
+</linearGradient>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_12_)" d="M56.355,20.512l-0.025,1.596
+	c-0.354,0.412-3.713,0.501-4.778,0.504H4.804C3.817,22.608,0.104,22.526,0,22.05v-1.538c0.21,0.485,3.728,0.558,4.804,0.562h46.749
+	C52.628,21.07,56.145,20.996,56.355,20.512z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M56.355,19.878v0.713c-0.214,0.634-3.727,0.731-4.803,0.735H4.804
+	C3.728,21.322,0.21,21.225,0,20.59v-0.712c0.21,0.636,3.728,0.732,4.804,0.736h46.749C52.628,20.61,56.145,20.514,56.355,19.878z"/>
+</svg>

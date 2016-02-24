@@ -1,0 +1,1554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="42" viewBox="0 0 54 42">
+<g>
+	<g>
+		<defs>
+			<polygon id="SVGID_1_" points="0.465,10.091 35.778,29.396 53.434,19.743 18.121,0.439 0.465,10.091 			"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="-1.394,-1.315 
+			-1.394,-0.438 53.434,-0.438 53.434,-1.315 -1.394,-1.315 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#DEDEDD" points="-1.394,-0.438 -1.394,0.439 
+			53.434,0.439 53.434,-0.438 -1.394,-0.438 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#DFDFDE" points="-1.394,0.439 -1.394,1.317 
+			53.434,1.317 53.434,0.439 -1.394,0.439 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E0E0DF" points="-1.394,1.317 -1.394,2.194 
+			53.434,2.194 53.434,1.317 -1.394,1.317 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E0E1E0" points="-1.394,2.194 -1.394,3.072 
+			53.434,3.072 53.434,2.194 -1.394,2.194 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E1E1E1" points="-1.394,3.072 -1.394,3.949 
+			53.434,3.949 53.434,3.072 -1.394,3.072 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E2E2E2" points="-1.394,3.949 -1.394,4.826 
+			53.434,4.826 53.434,3.949 -1.394,3.949 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E3E3E3" points="-1.394,4.826 -1.394,5.704 
+			53.434,5.704 53.434,4.826 -1.394,4.826 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E4E4E4" points="-1.394,5.704 -1.394,6.581 
+			53.434,6.581 53.434,5.704 -1.394,5.704 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E6E6E5" points="-1.394,6.581 -1.394,7.459 
+			53.434,7.459 53.434,6.581 -1.394,6.581 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E7E7E7" points="-1.394,7.459 -1.394,8.336 
+			53.434,8.336 53.434,7.459 -1.394,7.459 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E8E8E8" points="-1.394,8.336 -1.394,9.213 
+			53.434,9.213 53.434,8.336 -1.394,8.336 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E9E9E9" points="-1.394,9.213 -1.394,10.97 
+			53.434,10.97 53.434,9.213 -1.394,9.213 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#EAEAEA" points="-1.394,10.97 -1.394,11.847 
+			53.434,11.847 53.434,10.97 -1.394,10.97 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#EBEBEB" points="-1.394,11.847 
+			-1.394,12.724 53.434,12.724 53.434,11.847 -1.394,11.847 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#ECECEC" points="-1.394,12.724 
+			-1.394,13.602 53.434,13.602 53.434,12.724 -1.394,12.724 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#EDEDED" points="-1.394,13.602 
+			-1.394,14.479 53.434,14.479 53.434,13.602 -1.394,13.602 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#EFEEEE" points="-1.394,14.479 
+			-1.394,15.356 53.434,15.356 53.434,14.479 -1.394,14.479 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F0EFEF" points="-1.394,15.356 
+			-1.394,16.234 53.434,16.234 53.434,15.356 -1.394,15.356 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F1F0F0" points="-1.394,16.234 
+			-1.394,17.111 53.434,17.111 53.434,16.234 -1.394,16.234 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F2F2F2" points="-1.394,17.111 
+			-1.394,17.989 53.434,17.989 53.434,17.111 -1.394,17.111 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F3F3F3" points="-1.394,17.989 
+			-1.394,18.867 53.434,18.867 53.434,17.989 -1.394,17.989 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F3F3F3" points="-1.394,18.867 
+			-1.394,20.621 53.434,20.621 53.434,18.867 -1.394,18.867 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F5F6F6" points="-1.394,20.621 
+			-1.394,21.499 53.434,21.499 53.434,20.621 -1.394,20.621 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F6F6F6" points="-1.394,21.499 
+			-1.394,22.377 53.434,22.377 53.434,21.499 -1.394,21.499 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F7F8F8" points="-1.394,22.377 
+			-1.394,23.254 53.434,23.254 53.434,22.377 -1.394,22.377 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F7F8F8" points="-1.394,23.254 
+			-1.394,24.133 53.434,24.133 53.434,23.254 -1.394,23.254 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F9F9FA" points="-1.394,24.133 
+			-1.394,25.009 53.434,25.009 53.434,24.133 -1.394,24.133 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FAFAFA" points="-1.394,25.009 
+			-1.394,25.887 53.434,25.887 53.434,25.009 -1.394,25.009 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FBFCFC" points="-1.394,25.887 
+			-1.394,26.764 53.434,26.764 53.434,25.887 -1.394,25.887 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FDFEFF" points="-1.394,26.764 
+			-1.394,27.642 53.434,27.642 53.434,26.764 -1.394,26.764 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="-1.394,27.642 
+			-1.394,28.518 53.434,28.518 53.434,27.642 -1.394,27.642 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="-1.394,28.518 
+			-1.394,30.274 53.434,30.274 53.434,28.518 -1.394,28.518 		"/>
+	</g>
+	
+		<polygon fill="none" stroke="#FFFFFF" stroke-width="0.5315" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		0,9.762 35.138,29.067 52.735,19.524 17.599,0 0,9.762 	"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_3_" points="35.778,41.683 52.505,32.907 52.505,31.151 53.434,30.274 53.434,19.743 35.778,29.396 
+				35.778,41.683 			"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 -4.712888e-008 -2.094312e-006)" clip-path="url(#SVGID_4_)">
+			
+				<image overflow="visible" width="21" height="27" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAGBAAABkgAAAcf/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIABsAFgMBIgACEQEDEQH/
+xABxAAEBAQEAAAAAAAAAAAAAAAAABQIHAQEAAAAAAAAAAAAAAAAAAAAAEAACAgMAAAAAAAAAAAAA
+AAAAIDAlAxMVEQABAgUFAAAAAAAAAAAAAAASABEhURRFpTABAiITEgEAAAAAAAAAAAAAAAAAAAAg
+/9oADAMBAAIRAxEAAADoAACVgsI4/9oACAECAAEFAE//2gAIAQMAAQUAT//aAAgBAQABBQCHNz91
+aVp//9oACAECAgY/AB//2gAIAQMCBj8AH//aAAgBAQEGPwDR5nXGW5BXA7xHz6tIYSVwyCuGQX//
+2Q==" transform="matrix(0.9293 0 0 -0.8775 33.918 41.6826)">
+			</image>
+		</g>
+		<g transform="matrix(1 0 0 1 -4.712888e-008 -2.094312e-006)" clip-path="url(#SVGID_4_)">
+			
+				<image overflow="visible" width="21" height="27" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAGWAAABugAAAgT/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIABsAFgMBIgACEQEDEQH/
+xACAAAADAQEBAAAAAAAAAAAAAAAABAUDAgYBAQAAAAAAAAAAAAAAAAAAAAAQAAIBBAMBAAAAAAAA
+AAAAAAEDBAAgERIxAjMUEQABAwECDwAAAAAAAAAAAAABABECA3GCECFBUbHREkJikqITMzREEgEA
+AAAAAAAAAAAAAAAAAAAg/9oADAMBAAIRAxEAAAC7k/iKHIehn10yGUw//9oACAECAAEFALP/2gAI
+AQMAAQUAs//aAAgBAQABBQCV3kfTvJoukbPTl7FjqD7NWAZFH2Zw3FHXf//aAAgBAgIGPwAf/9oA
+CAEDAgY/AB//2gAIAQEBBj8ArNVmBtyYCRZnK8s+YoR708fEdaqHPKWnBG1SkcpJRUbVu3l8950P
+S6nX/9k=" transform="matrix(0.9293 0 0 -0.8775 33.918 41.6826)">
+			</image>
+		</g>
+	</g>
+	
+		<polygon fill="none" stroke="#FFFFFF" stroke-width="0.5315" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		35.138,41.462 51.808,32.357 51.808,30.714 52.735,30.274 52.735,19.524 35.138,29.067 35.138,41.462 	"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_5_" points="0.465,20.621 1.394,21.499 1.394,23.254 35.778,41.683 35.778,29.396 0.465,10.091 0.465,20.621 
+							"/>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_5_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 8.404662e-009 -7.332228e-007)" clip-path="url(#SVGID_6_)">
+			
+				<image overflow="visible" width="40" height="39" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAGJAAABnwAAAeL/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIACUAKQMBIgACEQEDEQH/
+xAB2AAEAAwAAAAAAAAAAAAAAAAAAAwQHAQEAAAAAAAAAAAAAAAAAAAAAEAADAAEFAAAAAAAAAAAA
+AAAAEgQwQAERAgMRAAEDAwIHAAAAAAAAAAAAAAEAAgMzk9NAESFxEjKS0hMSAQAAAAAAAAAAAAAA
+AAAAADD/2gAMAwEAAhEDEQAAANAAAAAABXAAkD//2gAIAQIAAQUAw//aAAgBAwABBQDD/9oACAEB
+AAEFANRv3t5e8e8e8e8b3P/aAAgBAgIGPwAf/9oACAEDAgY/AB//2gAIAQEBBj8A1B6YYi3fgTK4
+Hbl8iqMV12FUYrrsKoxXXYVRiuuwrsZ5n0X/2Q==" transform="matrix(0.9293 0 0 -0.8775 -1.3936 42.5596)">
+			</image>
+		</g>
+		<g transform="matrix(1 0 0 1 8.404662e-009 -7.332228e-007)" clip-path="url(#SVGID_6_)">
+			
+				<image overflow="visible" width="40" height="39" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAGaAAABzgAAAhj/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIACUAKQMBIgACEQEDEQH/
+xAB6AAADAQEBAQAAAAAAAAAAAAAAAgMEAQUGAQEAAAAAAAAAAAAAAAAAAAAAEAACAgIDAQAAAAAA
+AAAAAAAAAhIDAREwEzMhEQABAwIFBQAAAAAAAAAAAAABAJECIDIxQbHhciFRYXEiEgEAAAAAAAAA
+AAAAAAAAAAAw/9oADAMBAAIRAxEAAAD6fnHFKBPZn1GB0cuy3JX655TgWuBZgP/aAAgBAgABBQDh
+/9oACAEDAAEFAOH/2gAIAQEAAQUAsst7Z3E7idxO4k4/suNkCBA0P7ILjZAgRH9kEFxsgRHwnauE
+EiJoXR8P/9oACAECAgY/AB//2gAIAQMCBj8AH//aAAgBAQEGPwCYE5D6OZ7q+TlXycq+TlXycq4u
+p8jrVPkdap8jrVPqbjl59rEtusS29H//2Q==" transform="matrix(0.9293 0 0 -0.8775 -1.3936 42.5596)">
+			</image>
+		</g>
+	</g>
+	
+		<polygon fill="none" stroke="#010101" stroke-width="0.5315" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		0,20.566 0.929,21.17 0.929,22.815 35.138,41.462 35.138,29.067 0,9.762 0,20.566 	"/>
+	
+		<polygon fill="none" stroke="#010101" stroke-width="1.1339" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		0,9.762 0,20.566 0.929,21.17 0.929,22.815 35.138,41.462 51.808,32.357 51.808,30.714 52.735,30.274 52.735,19.524 17.599,0 
+		0,9.762 	"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_7_" points="31.132,31.151 32.061,31.151 32.061,32.03 31.132,32.03 31.132,31.151 			"/>
+		</defs>
+		<clipPath id="SVGID_8_">
+			<use xlink:href="#SVGID_7_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_8_)">
+			<defs>
+				<polygon id="SVGID_9_" points="30.898,33.126 33.396,31.755 31.654,28.902 29.156,30.219 				"/>
+			</defs>
+			<clipPath id="SVGID_10_">
+				<use xlink:href="#SVGID_9_"  overflow="visible"/>
+			</clipPath>
+			<g transform="matrix(1 0 0 1 1.372269e-006 1.451772e-007)" clip-path="url(#SVGID_10_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF0AAABgQAAAa//2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAcABgMBIgACEQEDEQH/
+xABpAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABAAAgMAAAAAAAAAAAAAAAAA
+AAEDEwQRAAICAgMAAAAAAAAAAAAAABESARMAA2GBBBIBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQAC
+EQMRAAAAtwf/2gAIAQIAAQUAP//aAAgBAwABBQA//9oACAEBAAEFANSmv//aAAgBAgIGPwB//9oA
+CAEDAgY/AH//2gAIAQEBBj8A8dbJG6blISnaG4Zexn//2Q==" transform="matrix(0.9293 0 0 -0.8775 28.3428 33.7852)">
+				</image>
+			</g>
+			<g transform="matrix(1 0 0 1 1.372269e-006 1.451772e-007)" clip-path="url(#SVGID_10_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF6AAABiAAAAbb/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAcABgMBIgACEQEDEQH/
+xABuAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAABBAAAQUAAAAAAAAAAAAAAAAA
+AEECAwQUEQACAgMBAAAAAAAAAAAAAAABAjEDACESExIAAgMBAAAAAAAAAAAAAAAAADERQWFC/9oA
+DAMBAAIRAxEAAACmAz//2gAIAQIAAQUAT//aAAgBAwABBQA//9oACAEBAAEFAGQ3tH//2gAIAQIC
+Bj8A6eqT/9oACAEDAgY/ALZ//9oACAEBAQY/ALFNl/kV0xLT0sZ//9k=" transform="matrix(0.9293 0 0 -0.8775 28.3428 33.7852)">
+				</image>
+			</g>
+		</g>
+	</g>
+	
+		<path fill="none" stroke="#010101" stroke-width="0.1063" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M31.712,30.768c-0.233-0.384-0.641-0.604-0.871-0.438c-0.233,0.108-0.233,0.549,0,0.933c0.23,0.328,0.58,0.549,0.813,0.439
+		C31.942,31.535,31.942,31.151,31.712,30.768"/>
+	<g>
+		<defs>
+			<path id="SVGID_11_" d="M26.484,28.518c0-0.876,0-0.876-0.929-0.876v0.876c0.929,0.879,0.929,0.879,0.929,0.879
+				C27.413,29.396,27.413,28.518,26.484,28.518"/>
+		</defs>
+		<clipPath id="SVGID_12_">
+			<use xlink:href="#SVGID_11_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_12_)">
+			<defs>
+				<polygon id="SVGID_13_" points="25.613,30.219 28.111,28.902 26.367,25.995 23.87,27.368 				"/>
+			</defs>
+			<clipPath id="SVGID_14_">
+				<use xlink:href="#SVGID_13_"  overflow="visible"/>
+			</clipPath>
+			<g transform="matrix(1 0 0 1 5.154654e-007 -1.269905e-006)" clip-path="url(#SVGID_14_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF4AAABhgAAAbf/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABwMBIgACEQEDEQH/
+xABtAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABAAAgMAAAAAAAAAAAAAAAAA
+AAMBAgYRAAIABAcAAAAAAAAAAAAAAAECABESAyExIjITBAUSAQAAAAAAAAAAAAAAAAAAAAD/2gAM
+AwEAAhEDEQAAAKgH/9oACAECAAEFAD//2gAIAQMAAQUAP//aAAgBAQABBQDQWVDP/9oACAECAgY/
+AH//2gAIAQMCBj8Af//aAAgBAQEGPwDywyubrd2zxFNqmeqvHKmcf//Z" transform="matrix(0.9293 0 0 -0.8775 23.6963 31.1514)">
+				</image>
+			</g>
+			<g transform="matrix(1 0 0 1 5.154654e-007 -1.269905e-006)" clip-path="url(#SVGID_14_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAGAAAABjQAAAb7/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABwMBIgACEQEDEQH/
+xAB0AAEBAAAAAAAAAAAAAAAAAAAABQEBAQAAAAAAAAAAAAAAAAAAAwUQAAEFAAAAAAAAAAAAAAAA
+AAECQkQFFREAAAQHAQAAAAAAAAAAAAAAAREhAgASQlIDEwQUEgABBQEAAAAAAAAAAAAAAAAAMYHB
+grKE/9oADAMBAAIRAxEAAAC0Aq//2gAIAQIAAQUAZ//aAAgBAwABBQCR/9oACAEBAAEFAK1J3f/a
+AAgBAgIGPwC7H//aAAgBAwIGPwDlsmoP/9oACAEBAQY/AOrQ53nBuTfOarSYXR//2Q==" transform="matrix(0.9293 0 0 -0.8775 23.6963 31.1514)">
+				</image>
+			</g>
+		</g>
+	</g>
+	
+		<path fill="none" stroke="#010101" stroke-width="0.1063" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M26.426,27.861c-0.231-0.384-0.639-0.55-0.87-0.438c-0.233,0.165-0.233,0.548,0,0.933c0.231,0.384,0.58,0.547,0.812,0.438
+		C26.658,28.684,26.658,28.244,26.426,27.861"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_15_" points="20.909,25.009 21.837,25.009 21.837,26.764 20.909,26.764 20.909,25.009 			"/>
+		</defs>
+		<clipPath id="SVGID_16_">
+			<use xlink:href="#SVGID_15_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_16_)">
+			<defs>
+				<polygon id="SVGID_17_" points="20.328,27.368 22.825,25.995 21.083,23.146 18.586,24.462 				"/>
+			</defs>
+			<clipPath id="SVGID_18_">
+				<use xlink:href="#SVGID_17_"  overflow="visible"/>
+			</clipPath>
+			<g transform="matrix(1 0 0 1 1.624149e-007 -1.588032e-006)" clip-path="url(#SVGID_18_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF0AAABgQAAAbD/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAcABgMBIgACEQEDEQH/
+xABpAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABAAAgMAAAAAAAAAAAAAAAAA
+AAIDBBQRAAIBBQEAAAAAAAAAAAAAAAECAwARIjKCBBIBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQAC
+EQMRAAAAtQf/2gAIAQIAAQUAP//aAAgBAwABBQA//9oACAEBAAEFALbS6v/aAAgBAgIGPwB//9oA
+CAEDAgY/AH//2gAIAQEBBj8A8KoGKmVzIy6hRDKMuiLV/9k=" transform="matrix(0.9293 0 0 -0.8775 18.1211 27.6416)">
+				</image>
+			</g>
+			<g transform="matrix(1 0 0 1 1.624149e-007 -1.588032e-006)" clip-path="url(#SVGID_18_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF8AAABiQAAAbb/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAcABgMBIgACEQEDEQH/
+xABwAAEBAAAAAAAAAAAAAAAAAAAABgEBAQAAAAAAAAAAAAAAAAAAAwQQAAMBAQAAAAAAAAAAAAAA
+ABEhAxMEEQABBAMBAAAAAAAAAAAAAAABESECAwAxMhMSAAEFAQAAAAAAAAAAAAAAAADwATFBsUL/
+2gAMAwEAAhEDEQAAAKURh//aAAgBAgABBQBD/9oACAEDAAEFAEP/2gAIAQEAAQUAnHq3/9oACAEC
+AgY/AOk+H//aAAgBAwIGPwC5P//aAAgBAQEGPwC0mVvigRZv1HT5/9k=" transform="matrix(0.9293 0 0 -0.8775 18.1211 27.6416)">
+				</image>
+			</g>
+		</g>
+	</g>
+	
+		<path fill="none" stroke="#010101" stroke-width="0.1063" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M21.142,25.009c-0.232-0.384-0.64-0.603-0.872-0.438c-0.231,0.11-0.231,0.548,0,0.933c0.232,0.329,0.581,0.549,0.813,0.438
+		C21.373,25.776,21.373,25.393,21.142,25.009"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_19_" points="15.333,22.377 16.262,22.377 16.262,23.254 15.333,23.254 15.333,22.377 			"/>
+		</defs>
+		<clipPath id="SVGID_20_">
+			<use xlink:href="#SVGID_19_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_20_)">
+			<defs>
+				<polygon id="SVGID_21_" points="15.043,24.462 17.54,23.09 15.797,20.237 13.3,21.609 				"/>
+			</defs>
+			<clipPath id="SVGID_22_">
+				<use xlink:href="#SVGID_21_"  overflow="visible"/>
+			</clipPath>
+			<g transform="matrix(1 0 0 1 6.955885e-007 -5.450711e-007)" clip-path="url(#SVGID_22_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFxAAABfQAAAaT/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABwMBIgACEQEDEQH/
+xABmAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAQEAAAAAAAAAAAAAAAAA
+ABIFEQABBAMAAAAAAAAAAAAAAAARAFESIgMENBIBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMR
+AAAAsQf/2gAIAQIAAQUAf//aAAgBAwABBQB//9oACAEBAAEFANWn/9oACAECAgY/AH//2gAIAQMC
+Bj8Af//aAAgBAQEGPwDTierEQ1l//9k=" transform="matrix(0.9293 0 0 -0.8775 12.5459 25.0088)">
+				</image>
+			</g>
+			<g transform="matrix(1 0 0 1 6.955885e-007 -5.450711e-007)" clip-path="url(#SVGID_22_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF1AAABggAAAaj/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABwMBIgACEQEDEQH/
+xABpAAEBAAAAAAAAAAAAAAAAAAAABgEBAQAAAAAAAAAAAAAAAAAAAwQQAAIDAAAAAAAAAAAAAAAA
+ABJCQwQVEQADAQEAAAAAAAAAAAAAAAAREgMAExIBAAMAAAAAAAAAAAAAAAAAAIGCg//aAAwDAQAC
+EQMRAAAAohGH/9oACAECAAEFAI//2gAIAQMAAQUAX//aAAgBAQABBQCqOl//2gAIAQICBj8A1h//
+2gAIAQMCBj8Au//aAAgBAQEGPwCivzWhO//Z" transform="matrix(0.9293 0 0 -0.8775 12.5459 25.0088)">
+				</image>
+			</g>
+		</g>
+	</g>
+	
+		<path fill="none" stroke="#010101" stroke-width="0.1063" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M15.856,22.103c-0.232-0.385-0.639-0.549-0.872-0.439c-0.232,0.165-0.232,0.55,0,0.933c0.233,0.384,0.581,0.55,0.813,0.439
+		C16.088,22.925,16.088,22.486,15.856,22.103"/>
+	<g>
+		<defs>
+			<path id="SVGID_23_" d="M10.687,19.743c0-0.876,0-0.876-0.929-0.876c0,0.876,0,0.876,0,0.876
+				c0.929,0.878,0.929,0.878,0.929,0.878C11.615,20.621,11.615,19.743,10.687,19.743"/>
+		</defs>
+		<clipPath id="SVGID_24_">
+			<use xlink:href="#SVGID_23_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_24_)">
+			<defs>
+				<polygon id="SVGID_25_" points="9.757,21.609 12.255,20.237 10.513,17.33 8.015,18.703 				"/>
+			</defs>
+			<clipPath id="SVGID_26_">
+				<use xlink:href="#SVGID_25_"  overflow="visible"/>
+			</clipPath>
+			<g transform="matrix(1 0 0 1 -1.047719e-007 -3.915047e-007)" clip-path="url(#SVGID_26_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF1AAABggAAAbL/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABwMBIgACEQEDEQH/
+xABqAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABAAAwEAAAAAAAAAAAAAAAAA
+AAETBhEAAQMEAwAAAAAAAAAAAAAAEwERBAAhgQMSIkISAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEA
+AhEDEQAAAKoH/9oACAECAAEFAD//2gAIAQMAAQUAP//aAAgBAQABBQDQtT//2gAIAQICBj8Af//a
+AAgBAwIGPwB//9oACAEBAQY/AIFti7FnxRidkUncjeB8stX/2Q==" transform="matrix(0.9293 0 0 -0.8775 7.8984 22.377)">
+				</image>
+			</g>
+			<g transform="matrix(1 0 0 1 -1.047719e-007 -3.915047e-007)" clip-path="url(#SVGID_26_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAGAAAABjwAAAcH/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABwMBIgACEQEDEQH/
+xAB0AAEBAAAAAAAAAAAAAAAAAAAABQEBAQAAAAAAAAAAAAAAAAAAAwUQAAEFAAAAAAAAAAAAAAAA
+AAFCA0MEFhEAAAQHAQAAAAAAAAAAAAAAARECAwAhMYESMhMEEgABBQEAAAAAAAAAAAAAAAAAwUKC
+8oM0/9oADAMBAAIRAxEAAAC8Bqf/2gAIAQIAAQUAT//aAAgBAwABBQCX/9oACAEBAAEFAKQf0v8A
+/9oACAECAgY/AND/2gAIAQMCBj8AbySsh//aAAgBAQEGPwB7iKx85OC90yx2og5bFaP/2Q==" transform="matrix(0.9293 0 0 -0.8775 7.8984 22.377)">
+				</image>
+			</g>
+		</g>
+	</g>
+	
+		<path fill="none" stroke="#010101" stroke-width="0.1063" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M10.57,19.25c-0.232-0.383-0.639-0.604-0.871-0.438c-0.232,0.109-0.232,0.548,0,0.877c0.232,0.384,0.581,0.604,0.814,0.438
+		C10.804,20.019,10.804,19.579,10.57,19.25"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_27_" points="5.111,16.234 6.041,16.234 6.041,17.989 5.111,17.989 5.111,16.234 			"/>
+		</defs>
+		<clipPath id="SVGID_28_">
+			<use xlink:href="#SVGID_27_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_28_)">
+			<defs>
+				<polygon id="SVGID_29_" points="4.473,18.703 6.97,17.33 5.227,14.479 2.73,15.851 				"/>
+			</defs>
+			<clipPath id="SVGID_30_">
+				<use xlink:href="#SVGID_29_"  overflow="visible"/>
+			</clipPath>
+			<g transform="matrix(1 0 0 1 -1.471037e-008 -1.328676e-007)" clip-path="url(#SVGID_30_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF0AAABggAAAbf/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAcABgMBIgACEQEDEQH/
+xABpAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABAAAwEAAAAAAAAAAAAAAAAA
+AAMEAhEAAgICAwEAAAAAAAAAAAAAAQIRAzESACIyBBIBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQAC
+EQMRAAAAtQf/2gAIAQIAAQUAP//aAAgBAwABBQA//9oACAEBAAEFAK1s1V//2gAIAQICBj8Af//a
+AAgBAwIGPwB//9oACAEBAQY/APisrLwlrC0KzBdGps9qDqe2sTg45//Z" transform="matrix(0.9293 0 0 -0.8775 2.3232 19.7432)">
+				</image>
+			</g>
+			<g transform="matrix(1 0 0 1 -1.471037e-008 -1.328676e-007)" clip-path="url(#SVGID_30_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAGBAAABjwAAAcX/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAcABgMBIgACEQEDEQH/
+xAB0AAEBAAAAAAAAAAAAAAAAAAAABQEBAQAAAAAAAAAAAAAAAAAABAUQAAEFAQAAAAAAAAAAAAAA
+AAQhQQISAwURAQABBAMAAAAAAAAAAAAAAAECETEDBAAhIhIAAQMFAAAAAAAAAAAAAAAAADFBMqGx
+EmJD/9oADAMBAAIRAxEAAAC2D2P/2gAIAQIAAQUAb//aAAgBAwABBQBbf//aAAgBAQABBQDIbrxN
+/9oACAECAgY/AHWh/9oACAEDAgY/AOcNZ43P/9oACAEBAQY/AM+Bz7LrTiJlWTSROL5W3Vbc/9k=" transform="matrix(0.9293 0 0 -0.8775 2.3232 19.7432)">
+				</image>
+			</g>
+		</g>
+	</g>
+	
+		<path fill="none" stroke="#010101" stroke-width="0.1063" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M5.286,16.344c-0.233-0.384-0.639-0.549-0.872-0.438c-0.232,0.164-0.232,0.548,0,0.933c0.232,0.383,0.581,0.548,0.813,0.438
+		C5.518,17.111,5.518,16.728,5.286,16.344"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_31_" points="31.132,28.518 32.061,28.518 32.061,29.396 31.132,29.396 31.132,28.518 			"/>
+		</defs>
+		<clipPath id="SVGID_32_">
+			<use xlink:href="#SVGID_31_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_32_)">
+			<defs>
+				<polygon id="SVGID_33_" points="30.898,30.933 33.396,29.616 31.654,26.709 29.156,28.08 				"/>
+			</defs>
+			<clipPath id="SVGID_34_">
+				<use xlink:href="#SVGID_33_"  overflow="visible"/>
+			</clipPath>
+			<g transform="matrix(1 0 0 1 1.372269e-006 -1.269905e-006)" clip-path="url(#SVGID_34_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFyAAABfwAAAab/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABgMBIgACEQEDEQH/
+xABnAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAAMAAAAAAAAAAAAAAAAA
+ABEEFBEAAQQDAAAAAAAAAAAAAAAAEQBxAgMTBBQSAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhED
+EQAAALUH/9oACAECAAEFAH//2gAIAQMAAQUAf//aAAgBAQABBQC7On//2gAIAQICBj8Af//aAAgB
+AwIGPwB//9oACAEBAQY/ANAEdEi2C9f/2Q==" transform="matrix(0.9293 0 0 -0.8775 28.3428 31.1514)">
+				</image>
+			</g>
+			<g transform="matrix(1 0 0 1 1.372269e-006 -1.269905e-006)" clip-path="url(#SVGID_34_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF8AAABiQAAAbP/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABgMBIgACEQEDEQH/
+xABwAAEBAAAAAAAAAAAAAAAAAAAABQEBAAAAAAAAAAAAAAAAAAAABBAAAAcAAAAAAAAAAAAAAAAA
+AAERIQIDFBEAAQMFAAAAAAAAAAAAAAAAEgARAgEhMQMTEgABBQAAAAAAAAAAAAAAAAAAMUGBscH/
+2gAMAwEAAhEDEQAAALoAb//aAAgBAgABBQB0/9oACAEDAAEFAB//2gAIAQEAAQUArOGn/9oACAEC
+AgY/AGXaP//aAAgBAwIGPwCT/9oACAEBAQY/ANtRnyHD3c4r/9k=" transform="matrix(0.9293 0 0 -0.8775 28.3428 31.1514)">
+				</image>
+			</g>
+		</g>
+	</g>
+	
+		<path fill="none" stroke="#010101" stroke-width="0.1063" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M31.712,28.574c-0.233-0.33-0.641-0.549-0.871-0.439c-0.233,0.164-0.233,0.549,0,0.933c0.23,0.384,0.58,0.604,0.813,0.44
+		C31.942,29.396,31.942,28.958,31.712,28.574"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_35_" points="25.556,25.887 26.484,25.887 26.484,26.764 25.556,26.764 25.556,25.887 			"/>
+		</defs>
+		<clipPath id="SVGID_36_">
+			<use xlink:href="#SVGID_35_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_36_)">
+			<defs>
+				<polygon id="SVGID_37_" points="25.613,28.08 28.111,26.709 26.367,23.856 23.87,25.173 				"/>
+			</defs>
+			<clipPath id="SVGID_38_">
+				<use xlink:href="#SVGID_37_"  overflow="visible"/>
+			</clipPath>
+			<g transform="matrix(1 0 0 1 5.154654e-007 6.624514e-007)" clip-path="url(#SVGID_38_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF0AAABgQAAAbH/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABwMBIgACEQEDEQH/
+xABpAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAQEBAAAAAAAAAAAAAAAA
+AAECBREAAQQCAwAAAAAAAAAAAAAAARECEgMABDEiQhIBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQAC
+EQMRAAAArgf/2gAIAQIAAQUAf//aAAgBAwABBQB//9oACAEBAAEFAOzdR//aAAgBAgIGPwB//9oA
+CAEDAgY/AH//2gAIAQEBBj8A0gwWF52qUNckDZd5x8xXnP/Z" transform="matrix(0.9293 0 0 -0.8775 23.6963 28.5176)">
+				</image>
+			</g>
+			<g transform="matrix(1 0 0 1 5.154654e-007 6.624514e-007)" clip-path="url(#SVGID_38_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF+AAABiwAAAb3/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABwMBIgACEQEDEQH/
+xAByAAEBAAAAAAAAAAAAAAAAAAAABQEBAQAAAAAAAAAAAAAAAAAAAwUQAAIDAAAAAAAAAAAAAAAA
+AAEEQkMVEQACAQQDAAAAAAAAAAAAAAABEgMAESETUWEUEgABBAMAAAAAAAAAAAAAAAAA8EGBMkLy
+NP/aAAwDAQACEQMRAAAAvAaf/9oACAECAAEFAI//2gAIAQMAAQUAu//aAAgBAQABBQBMObn/2gAI
+AQICBj8Ae6g//9oACAEDAgY/AMOWdj//2gAIAQEBBj8AmQz+QCTZsZSc2Ru+K//Z" transform="matrix(0.9293 0 0 -0.8775 23.6963 28.5176)">
+				</image>
+			</g>
+		</g>
+	</g>
+	
+		<path fill="none" stroke="#010101" stroke-width="0.1063" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M26.426,25.722c-0.231-0.383-0.639-0.604-0.87-0.438c-0.233,0.108-0.233,0.548,0,0.933c0.231,0.328,0.58,0.547,0.812,0.438
+		C26.658,26.49,26.658,26.105,26.426,25.722"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_39_" points="20.909,23.254 21.837,23.254 21.837,24.133 20.909,24.133 20.909,23.254 			"/>
+		</defs>
+		<clipPath id="SVGID_40_">
+			<use xlink:href="#SVGID_39_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_40_)">
+			<defs>
+				<polygon id="SVGID_41_" points="20.328,25.173 22.825,23.803 21.083,20.951 18.586,22.321 				"/>
+			</defs>
+			<clipPath id="SVGID_42_">
+				<use xlink:href="#SVGID_41_"  overflow="visible"/>
+			</clipPath>
+			<g transform="matrix(1 0 0 1 1.624149e-007 -7.337712e-008)" clip-path="url(#SVGID_42_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF0AAABggAAAbf/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAcABgMBIgACEQEDEQH/
+xABpAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABAAAwEAAAAAAAAAAAAAAAAA
+AAMEAhEAAgICAwEAAAAAAAAAAAAAAQIRAzESACIyBBIBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQAC
+EQMRAAAAtQf/2gAIAQIAAQUAP//aAAgBAwABBQA//9oACAEBAAEFAK1s1V//2gAIAQICBj8Af//a
+AAgBAwIGPwB//9oACAEBAQY/APisrLwlrC0KzBdGps9qDqe2sTg45//Z" transform="matrix(0.9293 0 0 -0.8775 18.1211 25.8867)">
+				</image>
+			</g>
+			<g transform="matrix(1 0 0 1 1.624149e-007 -7.337712e-008)" clip-path="url(#SVGID_42_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF9AAABjAAAAbz/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAcABgMBIgACEQEDEQH/
+xABxAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAABBAAAQUAAAAAAAAAAAAAAAAA
+AwERIUEFEQABAwUAAAAAAAAAAAAAAAABEQIDADGBEhMSAAIBBQAAAAAAAAAAAAAAAAAxEUFhobFC
+/9oADAMBAAIRAxEAAACmAz//2gAIAQIAAQUAlv/aAAgBAwABBQCv/9oACAEBAAEFABj0EP8A/9oA
+CAECAgY/AOndTo//2gAIAQMCBj8Aq8H/2gAIAQEBBj8AljL5+JAR52VQ5tsV/9k=" transform="matrix(0.9293 0 0 -0.8775 18.1211 25.8867)">
+				</image>
+			</g>
+		</g>
+	</g>
+	
+		<path fill="none" stroke="#010101" stroke-width="0.1063" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M21.142,22.815c-0.232-0.384-0.64-0.549-0.872-0.438c-0.231,0.165-0.231,0.548,0,0.933c0.232,0.384,0.581,0.547,0.813,0.438
+		C21.373,23.638,21.373,23.199,21.142,22.815"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_43_" points="15.333,19.743 16.262,19.743 16.262,21.499 15.333,21.499 15.333,19.743 			"/>
+		</defs>
+		<clipPath id="SVGID_44_">
+			<use xlink:href="#SVGID_43_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_44_)">
+			<defs>
+				<polygon id="SVGID_45_" points="15.043,22.321 17.54,20.951 15.797,18.099 13.3,19.415 				"/>
+			</defs>
+			<clipPath id="SVGID_46_">
+				<use xlink:href="#SVGID_45_"  overflow="visible"/>
+			</clipPath>
+			<g transform="matrix(1 0 0 1 6.955885e-007 -7.041349e-007)" clip-path="url(#SVGID_46_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF1AAABggAAAa3/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABwMBIgACEQEDEQH/
+xABqAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAAMAAAAAAAAAAAAAAAAA
+ABITBREAAQEJAAAAAAAAAAAAAAAAERIAAUFxAjITFAUSAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEA
+AhEDEQAAAK4H/9oACAECAAEFAH//2gAIAQMAAQUAf//aAAgBAQABBQDWjb//2gAIAQICBj8Af//a
+AAgBAwIGPwB//9oACAEBAQY/AOeDk2aEpNoeoiE2/9k=" transform="matrix(0.9293 0 0 -0.8775 12.5459 23.2539)">
+				</image>
+			</g>
+			<g transform="matrix(1 0 0 1 6.955885e-007 -7.041349e-007)" clip-path="url(#SVGID_46_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF5AAABhgAAAbL/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABwMBIgACEQEDEQH/
+xABtAAEBAAAAAAAAAAAAAAAAAAAABgEBAQAAAAAAAAAAAAAAAAAAAwQQAAIDAAAAAAAAAAAAAAAA
+AAEEQgNDEQACAgMAAAAAAAAAAAAAAAARAgEDAGESEgABBQAAAAAAAAAAAAAAAAAA8EGBgjP/2gAM
+AwEAAhEDEQAAAKYSj//aAAgBAgABBQDP/9oACAEDAAEFAIf/2gAIAQEAAQUAUFoe/9oACAECAgY/
+AH0UH//aAAgBAwIGPwC5/9oACAEBAQY/ALoVrJp5fqWIOjn/2Q==" transform="matrix(0.9293 0 0 -0.8775 12.5459 23.2539)">
+				</image>
+			</g>
+		</g>
+	</g>
+	
+		<path fill="none" stroke="#010101" stroke-width="0.1063" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M15.856,19.964c-0.232-0.385-0.639-0.604-0.872-0.439c-0.232,0.109-0.232,0.549,0,0.933c0.233,0.329,0.581,0.549,0.813,0.385
+		C16.088,20.73,16.088,20.347,15.856,19.964"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_47_" points="9.757,17.111 10.687,17.111 10.687,17.989 9.757,17.989 9.757,17.111 			"/>
+		</defs>
+		<clipPath id="SVGID_48_">
+			<use xlink:href="#SVGID_47_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_48_)">
+			<defs>
+				<polygon id="SVGID_49_" points="9.757,19.415 12.255,18.044 10.513,15.192 8.015,16.563 				"/>
+			</defs>
+			<clipPath id="SVGID_50_">
+				<use xlink:href="#SVGID_49_"  overflow="visible"/>
+			</clipPath>
+			<g transform="matrix(1 0 0 1 -1.047719e-007 -1.328676e-007)" clip-path="url(#SVGID_50_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFzAAABgAAAAbj/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAcABwMBIgACEQEDEQH/
+xABoAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABAAAgMAAAAAAAAAAAAAAAAA
+AAETBAURAQACAgMAAAAAAAAAAAAAAAECAxEEACESEgEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIR
+AxEAAACuB//aAAgBAgABBQA//9oACAEDAAEFAD//2gAIAQEAAQUA2nYj/9oACAECAgY/AH//2gAI
+AQMCBj8Af//aAAgBAQEGPwDUNeF0rHc18ypZRIVlhK2VvlMw8CI5Ozn/2Q==" transform="matrix(0.9293 0 0 -0.8775 7.8984 19.7432)">
+				</image>
+			</g>
+			<g transform="matrix(1 0 0 1 -1.047719e-007 -1.328676e-007)" clip-path="url(#SVGID_50_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAGAAAABkAAAAcb/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAcABwMBIgACEQEDEQH/
+xABzAAEBAAAAAAAAAAAAAAAAAAAABgEBAQAAAAAAAAAAAAAAAAAAAwUQAAAHAAAAAAAAAAAAAAAA
+AAEhQQMTBAURAAMBAAMBAAAAAAAAAAAAAAERAgMAIUEUEgABAwUAAAAAAAAAAAAAAAAAEUFhwTLy
+QzT/2gAMAwEAAhEDEQAAAKUDS//aAAgBAgABBQBP/9oACAEDAAEFACk//9oACAEBAAEFAKzWkG//
+AP/aAAgBAgIGPwB7z//aAAgBAwIGPwDXyQuVD//aAAgBAQEGPwC6F7fErqxqaOdM9TDYCJCXnP/Z" transform="matrix(0.9293 0 0 -0.8775 7.8984 19.7432)">
+				</image>
+			</g>
+		</g>
+	</g>
+	
+		<path fill="none" stroke="#010101" stroke-width="0.1063" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M10.57,17.057c-0.232-0.385-0.639-0.549-0.871-0.439c-0.232,0.166-0.232,0.55,0,0.933c0.232,0.385,0.581,0.549,0.814,0.439
+		C10.804,17.824,10.804,17.44,10.57,17.057"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_51_" points="5.111,14.479 6.041,14.479 6.041,15.356 5.111,15.356 5.111,14.479 			"/>
+		</defs>
+		<clipPath id="SVGID_52_">
+			<use xlink:href="#SVGID_51_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_52_)">
+			<defs>
+				<polygon id="SVGID_53_" points="4.473,16.563 6.97,15.192 5.227,12.285 2.73,13.656 				"/>
+			</defs>
+			<clipPath id="SVGID_54_">
+				<use xlink:href="#SVGID_53_"  overflow="visible"/>
+			</clipPath>
+			<g transform="matrix(1 0 0 1 -1.471037e-008 2.069874e-008)" clip-path="url(#SVGID_54_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF0AAABggAAAbP/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABgMBIgACEQEDEQH/
+xABpAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABAAAwEAAAAAAAAAAAAAAAAA
+AAIFAREAAgEEAwAAAAAAAAAAAAAAAQIDABEhMRIiBRIBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQAC
+EQMRAAAArwf/2gAIAQIAAQUAP//aAAgBAwABBQA//9oACAEBAAEFAKDJlL//2gAIAQICBj8Af//a
+AAgBAwIGPwB//9oACAEBAQY/APKUoTI00pV8dVEEvIbvk20K/9k=" transform="matrix(0.9293 0 0 -0.8775 2.3232 17.1113)">
+				</image>
+			</g>
+			<g transform="matrix(1 0 0 1 -1.471037e-008 2.069874e-008)" clip-path="url(#SVGID_54_)">
+				
+					<image overflow="visible" width="6" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF+AAABiwAAAb//2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABgMBIgACEQEDEQH/
+xAByAAEBAAAAAAAAAAAAAAAAAAAABQEBAQAAAAAAAAAAAAAAAAAABAUQAAIDAAAAAAAAAAAAAAAA
+AAEEQUIDEQEAAgEFAAAAAAAAAAAAAAABEQIDACExIgQSAAEDBQAAAAAAAAAAAAAAAADwAUGxMkKy
+wv/aAAwDAQACEQMRAAAAoA1z/9oACAECAAEFAI//2gAIAQMAAQUAv//aAAgBAQABBQBYZFv/2gAI
+AQICBj8AhPQ//9oACAEDAgY/AMreNj//2gAIAQEBBj8A9bVyHiChevaVclYeI21//9k=" transform="matrix(0.9293 0 0 -0.8775 2.3232 17.1113)">
+				</image>
+			</g>
+		</g>
+	</g>
+	
+		<path fill="none" stroke="#010101" stroke-width="0.1063" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M5.286,14.205c-0.233-0.384-0.639-0.604-0.872-0.439c-0.232,0.11-0.232,0.548,0,0.877c0.232,0.385,0.581,0.604,0.813,0.438
+		C5.518,14.973,5.518,14.534,5.286,14.205"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_55_" points="24.627,32.03 26.484,31.151 26.484,30.274 24.627,28.518 24.627,32.03 			"/>
+		</defs>
+		<clipPath id="SVGID_56_">
+			<use xlink:href="#SVGID_55_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 1.075661e-006 -3.265168e-007)" clip-path="url(#SVGID_56_)">
+			
+				<image overflow="visible" width="5" height="7" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFzAAABgAAAAar/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAcABgMBIgACEQEDEQH/
+xABoAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAAMAAAAAAAAAAAAAAAAA
+AAITFBEAAQMFAAAAAAAAAAAAAAAAEQESEwAxUQIDEgEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIR
+AxEAAAC2B//aAAgBAgABBQB//9oACAEDAAEFAH//2gAIAQEAAQUA3Rs//9oACAECAgY/AH//2gAI
+AQMCBj8Af//aAAgBAQEGPwCOHsUVrotm3BOK/9k=" transform="matrix(0.9293 0 0 -0.8775 22.7666 32.9072)">
+			</image>
+		</g>
+		<g transform="matrix(1 0 0 1 1.075661e-006 -3.265168e-007)" clip-path="url(#SVGID_56_)">
+			
+				<image overflow="visible" width="5" height="7" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFzAAABgAAAAaz/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAcABgMBIgACEQEDEQH/
+xABoAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABAAAgMAAAAAAAAAAAAAAAAA
+AAEDBBQRAAICAwEAAAAAAAAAAAAAABECARIAMQMiEgEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIR
+AxEAAACnB//aAAgBAgABBQA//9oACAEDAAEFAD//2gAIAQEAAQUAdaDd/9oACAECAgY/AH//2gAI
+AQMCBj8Af//aAAgBAQEGPwCGXpzF5lvamxIBO8//2Q==" transform="matrix(0.9293 0 0 -0.8775 22.7666 32.9072)">
+			</image>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_57_" points="25.556,32.907 27.413,32.03 26.484,31.151 24.627,32.03 25.556,32.907 			"/>
+		</defs>
+		<clipPath id="SVGID_58_">
+			<use xlink:href="#SVGID_57_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_58_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FDFEFF" points="22.767,29.396 
+			22.767,30.274 28.343,30.274 28.343,29.396 22.767,29.396 		"/>
+		<polygon clip-path="url(#SVGID_58_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E1E1E1" points="22.767,30.274 
+			22.767,31.151 28.343,31.151 28.343,30.274 22.767,30.274 		"/>
+		<polygon clip-path="url(#SVGID_58_)" fill-rule="evenodd" clip-rule="evenodd" fill="#EAEAEA" points="22.767,31.151 
+			22.767,32.03 28.343,32.03 28.343,31.151 22.767,31.151 		"/>
+		<polygon clip-path="url(#SVGID_58_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F2F2F2" points="22.767,32.03 
+			22.767,32.907 28.343,32.907 28.343,32.03 22.767,32.03 		"/>
+		<polygon clip-path="url(#SVGID_58_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FAFAFA" points="22.767,32.907 
+			22.767,33.785 28.343,33.785 28.343,32.907 22.767,32.907 		"/>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_59_" points="25.556,34.661 27.413,32.907 27.413,32.03 25.556,32.907 25.556,34.661 			"/>
+		</defs>
+		<clipPath id="SVGID_60_">
+			<use xlink:href="#SVGID_59_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 5.154654e-007 -9.517771e-007)" clip-path="url(#SVGID_60_)">
+			
+				<image overflow="visible" width="5" height="5" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF1AAABggAAAa//2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABgMBIgACEQEDEQH/
+xABqAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAAMAAAAAAAAAAAAAAAAA
+ABIEFREAAgAGAwAAAAAAAAAAAAAAERIAITFRYRQCIhMSAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEA
+AhEDEQAAAKgH/9oACAECAAEFAH//2gAIAQMAAQUAf//aAAgBAQABBQCNrG//2gAIAQICBj8Af//a
+AAgBAwIGPwB//9oACAEBAQY/AA/P22C3dl2iKMElYYj/2Q==" transform="matrix(0.9293 0 0 -0.8775 23.6963 34.6611)">
+			</image>
+		</g>
+		<g transform="matrix(1 0 0 1 5.154654e-007 -9.517771e-007)" clip-path="url(#SVGID_60_)">
+			
+				<image overflow="visible" width="5" height="5" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFyAAABfwAAAaf/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABgMBIgACEQEDEQH/
+xABnAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABAAAwEAAAAAAAAAAAAAAAAA
+AAECFREAAgEFAAAAAAAAAAAAAAAAARICADFxIkISAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhED
+EQAAALEH/9oACAECAAEFAD//2gAIAQMAAQUAP//aAAgBAQABBQBzWj//2gAIAQICBj8Af//aAAgB
+AwIGPwB//9oACAEBAQY/AARKa9DZbYWv/9k=" transform="matrix(0.9293 0 0 -0.8775 23.6963 34.6611)">
+			</image>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_61_" points="27.413,34.661 27.413,33.785 28.343,32.907 27.413,32.907 25.556,34.661 27.413,34.661 			"/>
+		</defs>
+		<clipPath id="SVGID_62_">
+			<use xlink:href="#SVGID_61_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_62_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FAFAFA" points="23.696,31.151 
+			23.696,32.03 28.343,32.03 28.343,31.151 23.696,31.151 		"/>
+		<polygon clip-path="url(#SVGID_62_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E0E0DF" points="23.696,32.03 
+			23.696,32.907 28.343,32.907 28.343,32.03 23.696,32.03 		"/>
+		<polygon clip-path="url(#SVGID_62_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E8E8E8" points="23.696,32.907 
+			23.696,33.785 28.343,33.785 28.343,32.907 23.696,32.907 		"/>
+		<polygon clip-path="url(#SVGID_62_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F0EFEF" points="23.696,33.785 
+			23.696,34.661 28.343,34.661 28.343,33.785 23.696,33.785 		"/>
+		<polygon clip-path="url(#SVGID_62_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F7F8F8" points="23.696,34.661 
+			23.696,35.539 28.343,35.539 28.343,34.661 23.696,34.661 		"/>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_63_" points="27.413,33.785 28.343,33.785 28.343,34.661 27.413,34.661 27.413,33.785 			"/>
+		</defs>
+		<clipPath id="SVGID_64_">
+			<use xlink:href="#SVGID_63_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_64_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F7F8F8" points="25.556,31.151 
+			25.556,32.03 29.272,32.03 29.272,31.151 25.556,31.151 		"/>
+		<polygon clip-path="url(#SVGID_64_)" fill-rule="evenodd" clip-rule="evenodd" fill="#DFDFDE" points="25.556,32.03 
+			25.556,32.907 29.272,32.907 29.272,32.03 25.556,32.03 		"/>
+		<polygon clip-path="url(#SVGID_64_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E8E8E8" points="25.556,32.907 
+			25.556,33.785 29.272,33.785 29.272,32.907 25.556,32.907 		"/>
+		<polygon clip-path="url(#SVGID_64_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F2F2F2" points="25.556,33.785 
+			25.556,34.661 29.272,34.661 29.272,33.785 25.556,33.785 		"/>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_65_" points="26.484,30.274 26.484,31.151 27.413,32.03 27.413,32.907 28.343,33.785 28.343,31.151 
+				26.484,30.274 			"/>
+		</defs>
+		<clipPath id="SVGID_66_">
+			<use xlink:href="#SVGID_65_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 -1.011732e-007 1.451772e-007)" clip-path="url(#SVGID_66_)">
+			
+				<image overflow="visible" width="4" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF0AAABgQAAAav/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAcABQMBIgACEQEDEQH/
+xABpAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAAMAAAAAAAAAAAAAAAAA
+ABIFFREAAQIHAAAAAAAAAAAAAAAAFBETAFGRoQISIxIBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQAC
+EQMRAAAAqQf/2gAIAQIAAQUAf//aAAgBAwABBQB//9oACAEBAAEFAI2GP//aAAgBAgIGPwB//9oA
+CAEDAgY/AH//2gAIAQEBBj8ATqURPLdsqqN2j//Z" transform="matrix(0.9293 0 0 -0.8775 24.627 33.7852)">
+			</image>
+		</g>
+		<g transform="matrix(1 0 0 1 -1.011732e-007 1.451772e-007)" clip-path="url(#SVGID_66_)">
+			
+				<image overflow="visible" width="4" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFwAAABfQAAAaP/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAcABQMBIgACEQEDEQH/
+xABlAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAAMAAAAAAAAAAAAAAAAA
+ABIDFBEBAAIDAAAAAAAAAAAAAAAAEQASATECEgEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEA
+AAC3B//aAAgBAgABBQB//9oACAEDAAEFAH//2gAIAQEAAQUAjbo//9oACAECAgY/AH//2gAIAQMC
+Bj8Af//aAAgBAQEGPwCz1W2nIE//2Q==" transform="matrix(0.9293 0 0 -0.8775 24.627 33.7852)">
+			</image>
+		</g>
+	</g>
+	
+		<polygon fill="none" stroke="#010101" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		27.937,30.659 27.937,34.169 26.601,33.4 26.601,34.661 25.265,33.95 25.265,32.687 23.87,31.92 23.87,28.41 27.937,30.659 	"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_67_" points="29.272,35.539 32.061,33.785 32.061,32.907 29.272,32.03 29.272,35.539 			"/>
+		</defs>
+		<clipPath id="SVGID_68_">
+			<use xlink:href="#SVGID_67_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 1.372269e-006 -4.800831e-007)" clip-path="url(#SVGID_68_)">
+			
+				<image overflow="visible" width="5" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFyAAABfwAAAav/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABQMBIgACEQEDEQH/
+xABnAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAAMAAAAAAAAAAAAAAAAA
+AAMTFREAAgEFAAAAAAAAAAAAAAAAERIDADFBgRMSAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhED
+EQAAALYH/9oACAECAAEFAH//2gAIAQMAAQUAf//aAAgBAQABBQCSzS//2gAIAQICBj8Af//aAAgB
+AwIGPwB//9oACAEBAQY/AIA3LhO11Z4FOCCN1//Z" transform="matrix(0.9293 0 0 -0.8775 28.3428 35.5391)">
+			</image>
+		</g>
+		<g transform="matrix(1 0 0 1 1.372269e-006 -4.800831e-007)" clip-path="url(#SVGID_68_)">
+			
+				<image overflow="visible" width="5" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFzAAABgAAAAaj/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABQMBIgACEQEDEQH/
+xABoAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABAAAgMAAAAAAAAAAAAAAAAA
+AAECEgMRAAIBBQAAAAAAAAAAAAAAAAISEQABYWIDEgEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIR
+AxEAAACoB//aAAgBAgABBQA//9oACAEDAAEFAD//2gAIAQEAAQUAUdLf/9oACAECAgY/AH//2gAI
+AQMCBj8Af//aAAgBAQEGPwArP1RxgoPbFf/Z" transform="matrix(0.9293 0 0 -0.8775 28.3428 35.5391)">
+			</image>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_69_" points="30.2,34.661 32.988,34.661 32.988,35.539 30.2,35.539 30.2,34.661 			"/>
+		</defs>
+		<clipPath id="SVGID_70_">
+			<use xlink:href="#SVGID_69_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_70_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F9F9FA" points="28.343,32.03 
+			28.343,32.907 33.918,32.907 33.918,32.03 28.343,32.03 		"/>
+		<polygon clip-path="url(#SVGID_70_)" fill-rule="evenodd" clip-rule="evenodd" fill="#DFDFDE" points="28.343,32.907 
+			28.343,33.785 33.918,33.785 33.918,32.907 28.343,32.907 		"/>
+		<polygon clip-path="url(#SVGID_70_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E7E7E7" points="28.343,33.785 
+			28.343,34.661 33.918,34.661 33.918,33.785 28.343,33.785 		"/>
+		<polygon clip-path="url(#SVGID_70_)" fill-rule="evenodd" clip-rule="evenodd" fill="#EFEEEE" points="28.343,34.661 
+			28.343,35.539 33.918,35.539 33.918,34.661 28.343,34.661 		"/>
+		<polygon clip-path="url(#SVGID_70_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F6F6F6" points="28.343,35.539 
+			28.343,36.416 33.918,36.416 33.918,35.539 28.343,35.539 		"/>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_71_" points="31.132,37.295 32.988,36.416 32.988,34.661 31.132,36.416 31.132,37.295 			"/>
+		</defs>
+		<clipPath id="SVGID_72_">
+			<use xlink:href="#SVGID_71_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 8.120730e-007 4.633048e-007)" clip-path="url(#SVGID_72_)">
+			
+				<image overflow="visible" width="5" height="5" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFzAAABgAAAAaj/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAUABQMBIgACEQEDEQH/
+xABoAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAAMAAAAAAAAAAAAAAAAA
+ABETBREAAQMFAAAAAAAAAAAAAAAAEQAxFHECEgQ0EgEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIR
+AxEAAAC1B//aAAgBAgABBQB//9oACAEDAAEFAH//2gAIAQEAAQUAs1Z//9oACAECAgY/AH//2gAI
+AQMCBj8Af//aAAgBAQEGPwDm18S8i8ikdf/Z" transform="matrix(0.9293 0 0 -0.8775 29.2725 37.2949)">
+			</image>
+		</g>
+		<g transform="matrix(1 0 0 1 8.120730e-007 4.633048e-007)" clip-path="url(#SVGID_72_)">
+			
+				<image overflow="visible" width="5" height="5" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFyAAABfwAAAaf/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAUABQMBIgACEQEDEQH/
+xABnAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAAMAAAAAAAAAAAAAAAAA
+ABEDFBEAAgEFAAAAAAAAAAAAAAAAAREhADFBEgMSAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhED
+EQAAAKgH/9oACAECAAEFAH//2gAIAQMAAQUAf//aAAgBAQABBQCKtH//2gAIAQICBj8Af//aAAgB
+AwIGPwB//9oACAEBAQY/ABPXRGEbsZdf/9k=" transform="matrix(0.9293 0 0 -0.8775 29.2725 37.2949)">
+			</image>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_73_" points="32.988,36.416 33.918,36.416 33.918,37.295 32.988,37.295 32.988,36.416 			"/>
+		</defs>
+		<clipPath id="SVGID_74_">
+			<use xlink:href="#SVGID_73_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_74_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FDFEFF" points="31.132,34.661 
+			31.132,35.539 34.85,35.539 34.85,34.661 31.132,34.661 		"/>
+		<polygon clip-path="url(#SVGID_74_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E3E3E3" points="31.132,35.539 
+			31.132,36.416 34.85,36.416 34.85,35.539 31.132,35.539 		"/>
+		<polygon clip-path="url(#SVGID_74_)" fill-rule="evenodd" clip-rule="evenodd" fill="#EDEDED" points="31.132,36.416 
+			31.132,37.295 34.85,37.295 34.85,36.416 31.132,36.416 		"/>
+		<polygon clip-path="url(#SVGID_74_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F7F8F8" points="31.132,37.295 
+			31.132,38.172 34.85,38.172 34.85,37.295 31.132,37.295 		"/>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_75_" points="32.061,32.907 32.061,33.785 32.988,34.661 32.988,36.416 33.918,36.416 33.918,33.785 
+				32.061,32.907 			"/>
+		</defs>
+		<clipPath id="SVGID_76_">
+			<use xlink:href="#SVGID_75_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 3.647631e-007 -2.466432e-006)" clip-path="url(#SVGID_76_)">
+			
+				<image overflow="visible" width="5" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF2AAABhQAAAbb/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABQMBIgACEQEDEQH/
+xABrAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABAAAwEAAAAAAAAAAAAAAAAA
+AAMEFREAAgECBwAAAAAAAAAAAAAAAQMRAhIAIZGhMwQUEgEAAAAAAAAAAAAAAAAAAAAA/9oADAMB
+AAIRAxEAAACrB//aAAgBAgABBQA//9oACAEDAAEFAD//2gAIAQEAAQUAZXXp/wD/2gAIAQICBj8A
+f//aAAgBAwIGPwB//9oACAEBAQY/AEHw9iwJcCLkwSa0RVzRlrvj/9k=" transform="matrix(0.9293 0 0 -0.8775 30.2002 36.416)">
+			</image>
+		</g>
+		<g transform="matrix(1 0 0 1 3.647631e-007 -2.466432e-006)" clip-path="url(#SVGID_76_)">
+			
+				<image overflow="visible" width="5" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFwAAABfAAAAaH/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABQMBIgACEQEDEQH/
+xABlAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABAAAwEAAAAAAAAAAAAAAAAA
+AAECExEAAgMBAAAAAAAAAAAAAAAAAWEAEiJSEgEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEA
+AACvB//aAAgBAgABBQA//9oACAEDAAEFAD//2gAIAQEAAQUAUvL/2gAIAQICBj8Af//aAAgBAwIG
+PwB//9oACAEBAQY/ADs2sOmp/9k=" transform="matrix(0.9293 0 0 -0.8775 30.2002 36.416)">
+			</image>
+		</g>
+	</g>
+	
+		<polygon fill="none" stroke="#010101" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		33.396,33.619 33.396,37.13 32.003,36.416 32.003,37.624 30.665,36.91 30.665,35.648 29.329,34.937 29.329,31.428 33.396,33.619 	
+		"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_77_" points="19.051,29.396 20.909,28.518 20.909,26.764 19.051,25.887 19.051,29.396 			"/>
+		</defs>
+		<clipPath id="SVGID_78_">
+			<use xlink:href="#SVGID_77_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 7.226107e-007 2.447505e-007)" clip-path="url(#SVGID_78_)">
+			
+				<image overflow="visible" width="5" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFzAAABfwAAAaf/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABQMBIgACEQEDEQH/
+xABoAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAAMAAAAAAAAAAAAAAAAA
+AAESFBEAAQMFAAAAAAAAAAAAAAAAAQARAiExEiITEgEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIR
+AxEAAAClB//aAAgBAgABBQB//9oACAEDAAEFAH//2gAIAQEAAQUArGr/2gAIAQICBj8Af//aAAgB
+AwIGPwB//9oACAEBAQY/AAM5867NK7hf/9k=" transform="matrix(0.9293 0 0 -0.8775 17.1914 29.3965)">
+			</image>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_79_" points="19.979,30.274 22.767,28.518 20.909,28.518 19.051,29.396 19.979,30.274 			"/>
+		</defs>
+		<clipPath id="SVGID_80_">
+			<use xlink:href="#SVGID_79_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_80_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="17.191,26.764 
+			17.191,27.642 22.767,27.642 22.767,26.764 17.191,26.764 		"/>
+		<polygon clip-path="url(#SVGID_80_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E4E4E4" points="17.191,27.642 
+			17.191,28.518 22.767,28.518 22.767,27.642 17.191,27.642 		"/>
+		<polygon clip-path="url(#SVGID_80_)" fill-rule="evenodd" clip-rule="evenodd" fill="#ECECEC" points="17.191,28.518 
+			17.191,29.396 22.767,29.396 22.767,28.518 17.191,28.518 		"/>
+		<polygon clip-path="url(#SVGID_80_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F4F4F4" points="17.191,29.396 
+			17.191,30.274 22.767,30.274 22.767,29.396 17.191,29.396 		"/>
+		<polygon clip-path="url(#SVGID_80_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FDFEFF" points="17.191,30.274 
+			17.191,31.151 22.767,31.151 22.767,30.274 17.191,30.274 		"/>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_81_" points="19.979,31.151 22.767,30.274 22.767,28.518 19.979,30.274 19.979,31.151 			"/>
+		</defs>
+		<clipPath id="SVGID_82_">
+			<use xlink:href="#SVGID_81_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 1.624149e-007 -1.687606e-006)" clip-path="url(#SVGID_82_)">
+			
+				<image overflow="visible" width="5" height="5" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFvAAABewAAAZ//2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAUABQMBIgACEQEDEQH/
+xABkAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAQEAAAAAAAAAAAAAAAAA
+ACMWEQABBQAAAAAAAAAAAAAAAAARAEFhEhQSAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQAA
+AKIH/9oACAECAAEFAH//2gAIAQMAAQUAf//aAAgBAQABBQCmQ//aAAgBAgIGPwB//9oACAEDAgY/
+AH//2gAIAQEBBj8Ae+WSQv/Z" transform="matrix(0.9293 0 0 -0.8775 18.1211 32.0303)">
+			</image>
+		</g>
+		<g transform="matrix(1 0 0 1 1.624149e-007 -1.687606e-006)" clip-path="url(#SVGID_82_)">
+			
+				<image overflow="visible" width="5" height="5" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFvAAABewAAAZ//2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAUABQMBIgACEQEDEQH/
+xABkAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAQEAAAAAAAAAAAAAAAAA
+ACMVEQACAwEAAAAAAAAAAAAAAAABMgARsZISAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQAA
+AKkH/9oACAECAAEFAH//2gAIAQMAAQUAf//aAAgBAQABBQCOp//aAAgBAgIGPwB//9oACAEDAgY/
+AH//2gAIAQEBBj8ADMe7yf/Z" transform="matrix(0.9293 0 0 -0.8775 18.1211 32.0303)">
+			</image>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_83_" points="20.909,31.151 21.837,31.151 21.837,32.03 20.909,32.03 20.909,31.151 			"/>
+		</defs>
+		<clipPath id="SVGID_84_">
+			<use xlink:href="#SVGID_83_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_84_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FDFEFF" points="18.121,28.518 
+			18.121,29.396 22.767,29.396 22.767,28.518 18.121,28.518 		"/>
+		<polygon clip-path="url(#SVGID_84_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E2E2E2" points="18.121,29.396 
+			18.121,30.274 22.767,30.274 22.767,29.396 18.121,29.396 		"/>
+		<polygon clip-path="url(#SVGID_84_)" fill-rule="evenodd" clip-rule="evenodd" fill="#EAEAEA" points="18.121,30.274 
+			18.121,31.151 22.767,31.151 22.767,30.274 18.121,30.274 		"/>
+		<polygon clip-path="url(#SVGID_84_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F3F3F3" points="18.121,31.151 
+			18.121,32.03 22.767,32.03 22.767,31.151 18.121,31.151 		"/>
+		<polygon clip-path="url(#SVGID_84_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FAFAFA" points="18.121,32.03 
+			18.121,32.907 22.767,32.907 22.767,32.03 18.121,32.03 		"/>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_85_" points="21.837,30.274 22.767,30.274 22.767,31.151 21.837,31.151 21.837,30.274 			"/>
+		</defs>
+		<clipPath id="SVGID_86_">
+			<use xlink:href="#SVGID_85_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_86_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FAFAFA" points="19.979,28.518 
+			19.979,29.396 23.696,29.396 23.696,28.518 19.979,28.518 		"/>
+		<polygon clip-path="url(#SVGID_86_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E1E1E1" points="19.979,29.396 
+			19.979,30.274 23.696,30.274 23.696,29.396 19.979,29.396 		"/>
+		<polygon clip-path="url(#SVGID_86_)" fill-rule="evenodd" clip-rule="evenodd" fill="#EBEBEB" points="19.979,30.274 
+			19.979,31.151 23.696,31.151 23.696,30.274 19.979,30.274 		"/>
+		<polygon clip-path="url(#SVGID_86_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F4F4F4" points="19.979,31.151 
+			19.979,32.03 23.696,32.03 23.696,31.151 19.979,31.151 		"/>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_87_" points="20.909,27.642 22.767,27.642 22.767,28.518 20.909,28.518 20.909,27.642 			"/>
+		</defs>
+		<clipPath id="SVGID_88_">
+			<use xlink:href="#SVGID_87_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 1.374667e-006 7.164444e-007)" clip-path="url(#SVGID_88_)">
+			
+				<image overflow="visible" width="4" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF3AAABhAAAAbT/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABAMBIgACEQEDEQH/
+xABsAAEBAAAAAAAAAAAAAAAAAAAABQEBAAAAAAAAAAAAAAAAAAAAABABAAMAAAAAAAAAAAAAAAAA
+AAQUFhEAAgEBCQAAAAAAAAAAAAAAERMSACExYTIDMwQUFRIBAAAAAAAAAAAAAAAAAAAAAP/aAAwD
+AQACEQMRAAAAuA//2gAIAQIAAQUAf//aAAgBAwABBQB//9oACAEBAAEFALU7I//aAAgBAgIGPwB/
+/9oACAEDAgY/AH//2gAIAQEBBj8AX0+S7zotOkZIEt1l9uU4Gv/Z" transform="matrix(0.9293 0 0 -0.8775 19.0508 30.2744)">
+			</image>
+		</g>
+		<g transform="matrix(1 0 0 1 1.374667e-006 7.164444e-007)" clip-path="url(#SVGID_88_)">
+			
+				<image overflow="visible" width="4" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFxAAABfQAAAaT/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABAMBIgACEQEDEQH/
+xABmAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAQEAAAAAAAAAAAAAAAAA
+ABIjEQABBAMAAAAAAAAAAAAAAAARAAExEnEiExIBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMR
+AAAAswf/2gAIAQIAAQUAf//aAAgBAwABBQB//9oACAEBAAEFAJ2//9oACAECAgY/AH//2gAIAQMC
+Bj8Af//aAAgBAQEGPwA2c9I2i2F//9k=" transform="matrix(0.9293 0 0 -0.8775 19.0508 30.2744)">
+			</image>
+		</g>
+	</g>
+	
+		<polygon fill="none" stroke="#010101" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		22.535,27.696 22.535,31.206 21.199,30.493 21.199,31.701 19.805,30.987 19.805,29.727 18.47,29.013 18.47,25.503 22.535,27.696 	
+		"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_89_" points="13.475,26.764 15.333,25.009 15.333,24.133 13.475,23.254 13.475,26.764 			"/>
+		</defs>
+		<clipPath id="SVGID_90_">
+			<use xlink:href="#SVGID_89_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 4.260031e-007 -3.860073e-007)" clip-path="url(#SVGID_90_)">
+			
+				<image overflow="visible" width="5" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFwAAABfQAAAaj/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAcABgMBIgACEQEDEQH/
+xABlAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABAAAwEAAAAAAAAAAAAAAAAA
+AAEEAxEAAgMBAAAAAAAAAAAAAAAAARECEgMAEgEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEA
+AACuB//aAAgBAgABBQA//9oACAEDAAEFAD//2gAIAQEAAQUAeFar/9oACAECAgY/AH//2gAIAQMC
+Bj8Af//aAAgBAQEGPwCK00OZkZE2lUBtd//Z" transform="matrix(0.9293 0 0 -0.8775 11.6152 26.7637)">
+			</image>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_91_" points="14.404,26.764 17.191,25.887 15.333,25.009 13.475,26.764 14.404,26.764 			"/>
+		</defs>
+		<clipPath id="SVGID_92_">
+			<use xlink:href="#SVGID_91_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_92_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F9F9FA" points="11.615,23.254 
+			11.615,24.133 17.191,24.133 17.191,23.254 11.615,23.254 		"/>
+		<polygon clip-path="url(#SVGID_92_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E0E0DF" points="11.615,24.133 
+			11.615,25.009 17.191,25.009 17.191,24.133 11.615,24.133 		"/>
+		<polygon clip-path="url(#SVGID_92_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E7E7E7" points="11.615,25.009 
+			11.615,25.887 17.191,25.887 17.191,25.009 11.615,25.009 		"/>
+		<polygon clip-path="url(#SVGID_92_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F0EFEF" points="11.615,25.887 
+			11.615,26.764 17.191,26.764 17.191,25.887 11.615,25.887 		"/>
+		<polygon clip-path="url(#SVGID_92_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F7F8F8" points="11.615,26.764 
+			11.615,27.642 17.191,27.642 17.191,26.764 11.615,26.764 		"/>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_93_" points="14.404,28.518 17.191,26.764 17.191,25.887 14.404,26.764 14.404,28.518 			"/>
+		</defs>
+		<clipPath id="SVGID_94_">
+			<use xlink:href="#SVGID_93_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 1.918357e-007 6.624514e-007)" clip-path="url(#SVGID_94_)">
+			
+				<image overflow="visible" width="5" height="5" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF1AAABgwAAAbT/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABgMBIgACEQEDEQH/
+xABqAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABAAAwEAAAAAAAAAAAAAAAAA
+AAMFAhEBAAEDBQEAAAAAAAAAAAAAAQMRIQIAgRIiBBQSAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEA
+AhEDEQAAAKkH/9oACAECAAEFAD//2gAIAQMAAQUAP//aAAgBAQABBQBz6eqH/9oACAECAgY/AH//
+2gAIAQMCBj8Af//aAAgBAQEGPwDzPyuEeDJYkEkEC/EoUL9ttf/Z" transform="matrix(0.9293 0 0 -0.8775 13.4746 28.5176)">
+			</image>
+		</g>
+		<g transform="matrix(1 0 0 1 1.918357e-007 6.624514e-007)" clip-path="url(#SVGID_94_)">
+			
+				<image overflow="visible" width="5" height="5" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFzAAABgQAAAaz/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABgMBIgACEQEDEQH/
+xABoAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABAAAwAAAAAAAAAAAAAAAAAA
+AAECEQABAwUBAAAAAAAAAAAAAAABESECAEGxEgMTEgEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIR
+AxEAAACyB//aAAgBAgABBQA//9oACAEDAAEFAD//2gAIAQEAAQUAiEr/AP/aAAgBAgIGPwB//9oA
+CAEDAgY/AH//2gAIAQEBBj8A6n0mYlGImx2soxX/2Q==" transform="matrix(0.9293 0 0 -0.8775 13.4746 28.5176)">
+			</image>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_95_" points="15.333,27.642 16.262,27.642 16.262,29.396 15.333,29.396 15.333,27.642 			"/>
+		</defs>
+		<clipPath id="SVGID_96_">
+			<use xlink:href="#SVGID_95_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_96_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="13.475,25.887 
+			13.475,26.764 18.121,26.764 18.121,25.887 13.475,25.887 		"/>
+		<polygon clip-path="url(#SVGID_96_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E5E5E5" points="13.475,26.764 
+			13.475,27.642 18.121,27.642 18.121,26.764 13.475,26.764 		"/>
+		<polygon clip-path="url(#SVGID_96_)" fill-rule="evenodd" clip-rule="evenodd" fill="#EDEDED" points="13.475,27.642 
+			13.475,28.518 18.121,28.518 18.121,27.642 13.475,27.642 		"/>
+		<polygon clip-path="url(#SVGID_96_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F5F6F6" points="13.475,28.518 
+			13.475,29.396 18.121,29.396 18.121,28.518 13.475,28.518 		"/>
+		<polygon clip-path="url(#SVGID_96_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="13.475,29.396 
+			13.475,30.274 18.121,30.274 18.121,29.396 13.475,29.396 		"/>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_97_" points="16.262,27.642 17.191,27.642 17.191,28.518 16.262,28.518 16.262,27.642 			"/>
+		</defs>
+		<clipPath id="SVGID_98_">
+			<use xlink:href="#SVGID_97_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_98_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="14.404,25.887 
+			14.404,26.764 18.121,26.764 18.121,25.887 14.404,25.887 		"/>
+		<polygon clip-path="url(#SVGID_98_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E5E5E5" points="14.404,26.764 
+			14.404,27.642 18.121,27.642 18.121,26.764 14.404,26.764 		"/>
+		<polygon clip-path="url(#SVGID_98_)" fill-rule="evenodd" clip-rule="evenodd" fill="#EFEEEE" points="14.404,27.642 
+			14.404,28.518 18.121,28.518 18.121,27.642 14.404,27.642 		"/>
+		<polygon clip-path="url(#SVGID_98_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F7F8F8" points="14.404,28.518 
+			14.404,29.396 18.121,29.396 18.121,28.518 14.404,28.518 		"/>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_99_" points="15.333,24.133 15.333,25.009 17.191,25.887 17.191,26.764 17.191,27.642 17.191,25.009 
+				15.333,24.133 			"/>
+		</defs>
+		<clipPath id="SVGID_100_">
+			<use xlink:href="#SVGID_99_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 1.918357e-007 -1.588032e-006)" clip-path="url(#SVGID_100_)">
+			
+				<image overflow="visible" width="5" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFzAAABgAAAAaj/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAcABgMBIgACEQEDEQH/
+xABoAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAAMAAAAAAAAAAAAAAAAA
+ABIEFREAAQMFAAAAAAAAAAAAAAAAEQACUhIicjMUEgEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIR
+AxEAAACoB//aAAgBAgABBQB//9oACAEDAAEFAH//2gAIAQEAAQUAhdwP/9oACAECAgY/AH//2gAI
+AQMCBj8Af//aAAgBAQEGPwCgv6srtsjFf//Z" transform="matrix(0.9293 0 0 -0.8775 13.4746 27.6416)">
+			</image>
+		</g>
+		<g transform="matrix(1 0 0 1 1.918357e-007 -1.588032e-006)" clip-path="url(#SVGID_100_)">
+			
+				<image overflow="visible" width="5" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFvAAABewAAAaL/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAcABgMBIgACEQEDEQH/
+xABkAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAQEAAAAAAAAAAAAAAAAA
+AgATEQEBAAMBAAAAAAAAAAAAAAABEQAhAhISAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQAA
+ALcH/9oACAECAAEFAL//2gAIAQMAAQUAv//aAAgBAQABBQAh7f/aAAgBAgIGPwB//9oACAEDAgY/
+AH//2gAIAQEBBj8A76VnohdSmf/Z" transform="matrix(0.9293 0 0 -0.8775 13.4746 27.6416)">
+			</image>
+		</g>
+	</g>
+	
+		<polygon fill="none" stroke="#010101" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		17.076,24.735 17.076,28.299 15.74,27.532 15.74,28.794 14.404,28.025 14.404,26.819 13.01,26.052 13.01,22.542 17.076,24.735 	"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_101_" points="7.898,23.254 9.757,22.377 9.757,21.499 7.898,19.743 7.898,23.254 			"/>
+		</defs>
+		<clipPath id="SVGID_102_">
+			<use xlink:href="#SVGID_101_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 4.473117e-008 -7.041349e-007)" clip-path="url(#SVGID_102_)">
+			
+				<image overflow="visible" width="5" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF3AAABhAAAAbT/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABQMBIgACEQEDEQH/
+xABsAAEBAAAAAAAAAAAAAAAAAAAABQEBAAAAAAAAAAAAAAAAAAAAABABAAMAAAAAAAAAAAAAAAAA
+AAQUFhEAAgEBCQAAAAAAAAAAAAAAERMSACExYTIDMwQUFRIBAAAAAAAAAAAAAAAAAAAAAP/aAAwD
+AQACEQMRAAAAuA//2gAIAQIAAQUAf//aAAgBAwABBQB//9oACAEBAAEFALU7I//aAAgBAgIGPwB/
+/9oACAEDAgY/AH//2gAIAQEBBj8AX0+S7zotOkZIEt1l9uU4Gv/Z" transform="matrix(0.9293 0 0 -0.8775 6.0405 23.2539)">
+			</image>
+		</g>
+		<g transform="matrix(1 0 0 1 4.473117e-008 -7.041349e-007)" clip-path="url(#SVGID_102_)">
+			
+				<image overflow="visible" width="5" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFzAAABgAAAAan/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABQMBIgACEQEDEQH/
+xABoAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAAMAAAAAAAAAAAAAAAAA
+AAISFREAAgEFAQAAAAAAAAAAAAAAARIRAHECIjITEgEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIR
+AxEAAACsB//aAAgBAgABBQB//9oACAEDAAEFAH//2gAIAQEAAQUApHQ//9oACAECAgY/AH//2gAI
+AQMCBj8Af//aAAgBAQEGPwAH0KsdYz6a0V//2Q==" transform="matrix(0.9293 0 0 -0.8775 6.0405 23.2539)">
+			</image>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_103_" points="9.757,24.133 11.615,23.254 9.757,22.377 7.898,23.254 9.757,24.133 			"/>
+		</defs>
+		<clipPath id="SVGID_104_">
+			<use xlink:href="#SVGID_103_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_104_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FDFEFF" points="6.041,20.621 
+			6.041,21.499 11.615,21.499 11.615,20.621 6.041,20.621 		"/>
+		<polygon clip-path="url(#SVGID_104_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E1E1E1" points="6.041,21.499 
+			6.041,22.377 11.615,22.377 11.615,21.499 6.041,21.499 		"/>
+		<polygon clip-path="url(#SVGID_104_)" fill-rule="evenodd" clip-rule="evenodd" fill="#EAEAEA" points="6.041,22.377 
+			6.041,23.254 11.615,23.254 11.615,22.377 6.041,22.377 		"/>
+		<polygon clip-path="url(#SVGID_104_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F2F2F2" points="6.041,23.254 
+			6.041,24.133 11.615,24.133 11.615,23.254 6.041,23.254 		"/>
+		<polygon clip-path="url(#SVGID_104_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FAFAFA" points="6.041,24.133 
+			6.041,25.009 11.615,25.009 11.615,24.133 6.041,24.133 		"/>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_105_" points="9.757,25.887 11.615,24.133 11.615,23.254 9.757,24.133 9.757,25.887 			"/>
+		</defs>
+		<clipPath id="SVGID_106_">
+			<use xlink:href="#SVGID_105_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 -1.047719e-007 -7.337712e-008)" clip-path="url(#SVGID_106_)">
+			
+				<image overflow="visible" width="5" height="5" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF4AAABhQAAAbn/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABgMBIgACEQEDEQH/
+xABtAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABAAAgMAAAAAAAAAAAAAAAAA
+AAEDBBQRAAEDAgcAAAAAAAAAAAAAABEBAhIhEwAxQQMEFAUSAQAAAAAAAAAAAAAAAAAAAAD/2gAM
+AwEAAhEDEQAAALQH/9oACAECAAEFAD//2gAIAQMAAQUAP//aAAgBAQABBQC6p9P/2gAIAQICBj8A
+f//aAAgBAwIGPwB//9oACAEBAQY/APPtK5GJyHX4kKzr74mKCcc6EajH/9k=" transform="matrix(0.9293 0 0 -0.8775 7.8984 25.8867)">
+			</image>
+		</g>
+		<g transform="matrix(1 0 0 1 -1.047719e-007 -7.337712e-008)" clip-path="url(#SVGID_106_)">
+			
+				<image overflow="visible" width="5" height="5" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF2AAABgwAAAbD/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABgMBIgACEQEDEQH/
+xABrAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABAAAwEAAAAAAAAAAAAAAAAA
+AAIDFBEAAQMDBQAAAAAAAAAAAAAAEQEhAgAxEmHBIgMTEgEAAAAAAAAAAAAAAAAAAAAA/9oADAMB
+AAIRAxEAAACxB//aAAgBAgABBQA//9oACAEDAAEFAD//2gAIAQEAAQUARa7P/9oACAECAgY/AH//
+2gAIAQMCBj8Af//aAAgBAQEGPwCfPt87uk8TnFkKAbaV/9k=" transform="matrix(0.9293 0 0 -0.8775 7.8984 25.8867)">
+			</image>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_107_" points="10.687,25.887 10.687,25.009 11.615,24.133 11.615,24.133 9.757,25.887 10.687,25.887 			"/>
+		</defs>
+		<clipPath id="SVGID_108_">
+			<use xlink:href="#SVGID_107_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_108_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FAFAFA" points="7.898,22.377 
+			7.898,23.254 12.546,23.254 12.546,22.377 7.898,22.377 		"/>
+		<polygon clip-path="url(#SVGID_108_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E0E0DF" points="7.898,23.254 
+			7.898,24.133 12.546,24.133 12.546,23.254 7.898,23.254 		"/>
+		<polygon clip-path="url(#SVGID_108_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E8E8E8" points="7.898,24.133 
+			7.898,25.009 12.546,25.009 12.546,24.133 7.898,24.133 		"/>
+		<polygon clip-path="url(#SVGID_108_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F0EFEF" points="7.898,25.009 
+			7.898,25.887 12.546,25.887 12.546,25.009 7.898,25.009 		"/>
+		<polygon clip-path="url(#SVGID_108_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F7F8F8" points="7.898,25.887 
+			7.898,26.764 12.546,26.764 12.546,25.887 7.898,25.887 		"/>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_109_" points="11.615,24.133 12.546,24.133 12.546,25.887 11.615,25.887 11.615,24.133 			"/>
+		</defs>
+		<clipPath id="SVGID_110_">
+			<use xlink:href="#SVGID_109_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_110_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F7F8F8" points="8.828,22.377 
+			8.828,23.254 12.546,23.254 12.546,22.377 8.828,22.377 		"/>
+		<polygon clip-path="url(#SVGID_110_)" fill-rule="evenodd" clip-rule="evenodd" fill="#DFDFDE" points="8.828,23.254 
+			8.828,24.133 12.546,24.133 12.546,23.254 8.828,23.254 		"/>
+		<polygon clip-path="url(#SVGID_110_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E8E8E8" points="8.828,24.133 
+			8.828,25.009 12.546,25.009 12.546,24.133 8.828,24.133 		"/>
+		<polygon clip-path="url(#SVGID_110_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F3F3F3" points="8.828,25.009 
+			8.828,25.887 12.546,25.887 12.546,25.009 8.828,25.009 		"/>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_111_" points="9.757,21.499 9.757,22.377 11.615,23.254 11.615,24.133 12.546,24.133 12.546,22.377 
+				9.757,21.499 			"/>
+		</defs>
+		<clipPath id="SVGID_112_">
+			<use xlink:href="#SVGID_111_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 2.494779e-007 -5.450711e-007)" clip-path="url(#SVGID_112_)">
+			
+				<image overflow="visible" width="4" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFxAAABfQAAAaP/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABQMBIgACEQEDEQH/
+xABmAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAAMAAAAAAAAAAAAAAAAA
+ABECExEAAQUBAAAAAAAAAAAAAAAAEQABITESExIBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMR
+AAAArwf/2gAIAQIAAQUAf//aAAgBAwABBQB//9oACAEBAAEFAIrv/9oACAECAgY/AH//2gAIAQMC
+Bj8Af//aAAgBAQEGPwAl99amtL//2Q==" transform="matrix(0.9293 0 0 -0.8775 8.8276 25.0088)">
+			</image>
+		</g>
+	</g>
+	
+		<polygon fill="none" stroke="#010101" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		11.674,21.828 11.674,25.339 10.338,24.625 10.338,25.832 8.944,25.118 8.944,23.856 7.608,23.146 7.608,19.579 11.674,21.828 	"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_113_" points="2.323,20.621 5.111,19.743 5.111,17.989 2.323,17.111 2.323,20.621 			"/>
+		</defs>
+		<clipPath id="SVGID_114_">
+			<use xlink:href="#SVGID_113_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 2.401470e-008 -1.334893e-006)" clip-path="url(#SVGID_114_)">
+			
+				<image overflow="visible" width="5" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFxAAABfQAAAaP/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABgMBIgACEQEDEQH/
+xABmAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAQEAAAAAAAAAAAAAAAAA
+ACQWEQAABwEAAAAAAAAAAAAAAAAAMZGCEzNDFBIBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMR
+AAAApgf/2gAIAQIAAQUAf//aAAgBAwABBQB//9oACAEBAAEFAK87/9oACAECAgY/AH//2gAIAQMC
+Bj8Af//aAAgBAQEGPwDTpdJapD//2Q==" transform="matrix(0.9293 0 0 -0.8775 0.4653 20.6211)">
+			</image>
+		</g>
+		<g transform="matrix(1 0 0 1 2.401470e-008 -1.334893e-006)" clip-path="url(#SVGID_114_)">
+			
+				<image overflow="visible" width="5" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFzAAABgAAAAaf/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABgMBIgACEQEDEQH/
+xABoAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAAMAAAAAAAAAAAAAAAAA
+ABECFREAAQMFAAAAAAAAAAAAAAAAIQABEhFBUQIyEgEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIR
+AxEAAACwB//aAAgBAgABBQB//9oACAEDAAEFAH//2gAIAQEAAQUAi+h//9oACAECAgY/AH//2gAI
+AQMCBj8Af//aAAgBAQEGPwAPvC/UagYX/9k=" transform="matrix(0.9293 0 0 -0.8775 0.4653 20.6211)">
+			</image>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_115_" points="4.182,21.499 6.041,19.743 5.111,19.743 2.323,20.621 4.182,21.499 			"/>
+		</defs>
+		<clipPath id="SVGID_116_">
+			<use xlink:href="#SVGID_115_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_116_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="0.465,17.989 
+			0.465,18.867 6.041,18.867 6.041,17.989 0.465,17.989 		"/>
+		<polygon clip-path="url(#SVGID_116_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E5E5E5" points="0.465,18.867 
+			0.465,19.743 6.041,19.743 6.041,18.867 0.465,18.867 		"/>
+		<polygon clip-path="url(#SVGID_116_)" fill-rule="evenodd" clip-rule="evenodd" fill="#EDEDED" points="0.465,19.743 
+			0.465,20.621 6.041,20.621 6.041,19.743 0.465,19.743 		"/>
+		<polygon clip-path="url(#SVGID_116_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F4F4F4" points="0.465,20.621 
+			0.465,21.499 6.041,21.499 6.041,20.621 0.465,20.621 		"/>
+		<polygon clip-path="url(#SVGID_116_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="0.465,21.499 
+			0.465,22.377 6.041,22.377 6.041,21.499 0.465,21.499 		"/>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_117_" points="4.182,22.377 6.041,21.499 6.041,19.743 4.182,21.499 4.182,22.377 			"/>
+		</defs>
+		<clipPath id="SVGID_118_">
+			<use xlink:href="#SVGID_117_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 -1.471037e-008 -3.915047e-007)" clip-path="url(#SVGID_118_)">
+			
+				<image overflow="visible" width="5" height="5" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFzAAABgAAAAaj/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAUABQMBIgACEQEDEQH/
+xABoAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAAMAAAAAAAAAAAAAAAAA
+ABETBREAAQMFAAAAAAAAAAAAAAAAEQAxFHECEgQ0EgEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIR
+AxEAAAC1B//aAAgBAgABBQB//9oACAEDAAEFAH//2gAIAQEAAQUAs1Z//9oACAECAgY/AH//2gAI
+AQMCBj8Af//aAAgBAQEGPwDm18S8i8ikdf/Z" transform="matrix(0.9293 0 0 -0.8775 2.3232 22.377)">
+			</image>
+		</g>
+		<g transform="matrix(1 0 0 1 -1.471037e-008 -3.915047e-007)" clip-path="url(#SVGID_118_)">
+			
+				<image overflow="visible" width="5" height="5" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFyAAABfgAAAab/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAUABQMBIgACEQEDEQH/
+xABnAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAAMAAAAAAAAAAAAAAAAA
+ABECFBEAAgEFAAAAAAAAAAAAAAAAAREAIUESIgMSAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhED
+EQAAAKgH/9oACAECAAEFAH//2gAIAQMAAQUAf//aAAgBAQABBQCKaf/aAAgBAgIGPwB//9oACAED
+AgY/AH//2gAIAQEBBj8AG3XBGiKbF3P/2Q==" transform="matrix(0.9293 0 0 -0.8775 2.3232 22.377)">
+			</image>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_119_" points="5.111,23.254 5.111,22.377 6.041,21.499 6.041,21.499 4.182,22.377 5.111,23.254 			"/>
+		</defs>
+		<clipPath id="SVGID_120_">
+			<use xlink:href="#SVGID_119_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_120_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="2.323,19.743 
+			2.323,20.621 6.97,20.621 6.97,19.743 2.323,19.743 		"/>
+		<polygon clip-path="url(#SVGID_120_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E2E2E2" points="2.323,20.621 
+			2.323,21.499 6.97,21.499 6.97,20.621 2.323,20.621 		"/>
+		<polygon clip-path="url(#SVGID_120_)" fill-rule="evenodd" clip-rule="evenodd" fill="#EBEBEB" points="2.323,21.499 
+			2.323,22.377 6.97,22.377 6.97,21.499 2.323,21.499 		"/>
+		<polygon clip-path="url(#SVGID_120_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F3F3F3" points="2.323,22.377 
+			2.323,23.254 6.97,23.254 6.97,22.377 2.323,22.377 		"/>
+		<polygon clip-path="url(#SVGID_120_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FBFCFC" points="2.323,23.254 
+			2.323,24.133 6.97,24.133 6.97,23.254 2.323,23.254 		"/>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_121_" points="6.041,21.499 6.97,21.499 6.97,22.377 6.041,22.377 6.041,21.499 			"/>
+		</defs>
+		<clipPath id="SVGID_122_">
+			<use xlink:href="#SVGID_121_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_122_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FAFAFA" points="3.253,19.743 
+			3.253,20.621 6.97,20.621 6.97,19.743 3.253,19.743 		"/>
+		<polygon clip-path="url(#SVGID_122_)" fill-rule="evenodd" clip-rule="evenodd" fill="#E1E1E1" points="3.253,20.621 
+			3.253,21.499 6.97,21.499 6.97,20.621 3.253,20.621 		"/>
+		<polygon clip-path="url(#SVGID_122_)" fill-rule="evenodd" clip-rule="evenodd" fill="#ECECEC" points="3.253,21.499 
+			3.253,22.377 6.97,22.377 6.97,21.499 3.253,21.499 		"/>
+		<polygon clip-path="url(#SVGID_122_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F5F6F6" points="3.253,22.377 
+			3.253,23.254 6.97,23.254 6.97,22.377 3.253,22.377 		"/>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_123_" points="5.111,17.989 5.111,19.743 6.041,19.743 6.041,21.499 6.97,21.499 6.97,18.867 5.111,17.989 			
+				"/>
+		</defs>
+		<clipPath id="SVGID_124_">
+			<use xlink:href="#SVGID_123_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 8.976194e-008 -8.631987e-007)" clip-path="url(#SVGID_124_)">
+			
+				<image overflow="visible" width="5" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAF3AAABhQAAAbb/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABQMBIgACEQEDEQH/
+xABsAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABAAAwEAAAAAAAAAAAAAAAAA
+AAMEFREAAQMCBwAAAAAAAAAAAAAAAwEREgATITFhoQIjBBIBAAAAAAAAAAAAAAAAAAAAAP/aAAwD
+AQACEQMRAAAArwf/2gAIAQIAAQUAP//aAAgBAwABBQA//9oACAEBAAEFAGUU6X//2gAIAQICBj8A
+f//aAAgBAwIGPwB//9oACAEBAQY/AAN5jW7Jk5YjjKYYqvY2T671/9k=" transform="matrix(0.9293 0 0 -0.8775 3.2529 21.499)">
+			</image>
+		</g>
+		<g transform="matrix(1 0 0 1 8.976194e-008 -8.631987e-007)" clip-path="url(#SVGID_124_)">
+			
+				<image overflow="visible" width="5" height="6" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEATQBNAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAFyAAABfwAAAaX/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAYABQMBIgACEQEDEQH/
+xABnAAEBAAAAAAAAAAAAAAAAAAAABgEBAAAAAAAAAAAAAAAAAAAAABABAAMAAAAAAAAAAAAAAAAA
+ABIDExEAAQQDAAAAAAAAAAAAAAAAAQARYQISIlISAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhED
+EQAAALEH/9oACAECAAEFAH//2gAIAQMAAQUAf//aAAgBAQABBQCNmX//2gAIAQICBj8Af//aAAgB
+AwIGPwB//9oACAEBAQY/ADtbNx1ML//Z" transform="matrix(0.9293 0 0 -0.8775 3.2529 21.499)">
+			</image>
+		</g>
+	</g>
+	
+		<polygon fill="none" stroke="#010101" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		6.214,18.867 6.214,22.432 4.879,21.663 4.879,22.925 3.543,22.158 3.543,20.951 2.148,20.184 2.148,16.672 6.214,18.867 	"/>
+</g>
+</svg>
