@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="119" height="32" viewBox="0 0 119 32">
+<g>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#484F52;" points="1,15.28 1,32.771 95.146,32.771 95.146,32.293 
+		118.304,14.118 118.304,1 44.286,1 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#D4D4D6;" points="1,15.28 95.242,15.28 118.304,1 44.286,1 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#909497;" points="1,15.28 1,32.771 95.146,32.771 95.146,15.28 1,15.28 
+			"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#DDDEE0;" points="35.932,20.336 35.932,28.74 43.944,28.74 
+		43.944,20.336 35.932,20.336 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#DDDEE0;" points="44.189,20.336 44.189,28.74 52.201,28.74 
+		52.201,20.336 44.189,20.336 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#DDDEE0;" points="52.396,20.336 52.396,28.74 60.507,28.74 
+		60.507,20.336 52.396,20.336 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#DDDEE0;" points="60.996,20.336 60.996,28.74 69.009,28.74 
+		69.009,20.336 60.996,20.336 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#DDDEE0;" points="77.508,20.336 77.508,28.74 85.569,28.74 
+		85.569,20.336 77.508,20.336 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#DDDEE0;" points="69.252,20.336 69.252,28.74 77.265,28.74 
+		77.265,20.336 69.252,20.336 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#DDDEE0;" points="27.627,20.336 27.627,28.74 35.737,28.74 
+		35.737,20.336 27.627,20.336 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#DDDEE0;" points="85.716,20.336 85.716,28.876 93.827,28.876 
+		93.827,20.336 85.716,20.336 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#213B2C;" points="33.441,25.119 34.662,25.119 34.662,21.429 
+		28.555,21.429 28.555,25.119 29.874,25.119 29.874,26.349 30.705,26.349 30.705,27.51 32.61,27.51 32.61,26.349 33.441,26.349 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#213B2C;" points="38.131,25.119 38.131,26.349 38.961,26.349 
+		38.961,27.51 40.817,27.51 40.817,26.349 41.697,26.349 41.697,25.119 42.968,25.119 42.968,21.429 36.812,21.429 36.812,25.119 	
+		"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#213B2C;" points="49.954,25.119 51.225,25.119 51.225,21.429 
+		45.117,21.429 45.117,25.119 46.338,25.119 46.338,26.349 47.267,26.349 47.267,27.51 49.074,27.51 49.074,26.349 49.954,26.349 	
+		"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#213B2C;" points="58.26,25.119 59.433,25.119 59.433,21.429 
+		53.374,21.429 53.374,25.119 54.595,25.119 54.595,26.349 55.523,26.349 55.523,27.51 57.331,27.51 57.331,26.349 58.26,26.349 	
+		"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#213B2C;" points="66.76,25.119 68.031,25.119 68.031,21.429 
+		61.875,21.429 61.875,25.119 63.193,25.119 63.193,26.349 64.024,26.349 64.024,27.51 65.931,27.51 65.931,26.349 66.76,26.349 	
+		"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#213B2C;" points="75.065,25.119 76.189,25.119 76.189,21.429 
+		70.181,21.429 70.181,25.119 71.401,25.119 71.401,26.349 72.33,26.349 72.33,27.51 74.137,27.51 74.137,26.349 75.065,26.349 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#213B2C;" points="79.66,25.119 79.66,26.349 80.586,26.349 
+		80.586,27.51 82.395,27.51 82.395,26.349 83.323,26.349 83.323,25.119 84.495,25.119 84.495,21.429 78.339,21.429 78.339,25.119 	
+		"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#213B2C;" points="91.579,25.119 92.753,25.119 92.753,21.566 
+		86.645,21.566 86.645,25.119 87.965,25.119 87.965,26.349 88.844,26.349 88.844,27.647 90.7,27.647 90.7,26.349 91.579,26.349 	"/>
+	<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#909497;" d="M116.837,11.044l-5.863,4.373v2.118l5.863-4.51V11.044
+		L116.837,11.044z M110.974,11.522v2.255l5.863-4.441V7.423L110.974,11.522L110.974,11.522z M116.837,3.665l-5.863,4.1v2.187
+		l5.863-4.168V3.665L116.837,3.665z M106.725,10.498l-9.184,6.149v2.528l9.184-6.423V10.498L106.725,10.498z M97.541,21.02
+		l0.097,2.391l9.087-6.627V14.46L97.541,21.02L97.541,21.02z M106.725,18.628l-9.087,6.695v2.528l9.087-6.97V18.628L106.725,18.628z
+		"/>
+	<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#484F52;" d="M2.466,29.423H24.06v-1.024H2.466V29.423L2.466,29.423z
+		 M2.466,27.033H24.06v-1.027H2.466V27.033L2.466,27.033z M2.466,24.435H24.06v-1.297H2.466V24.435L2.466,24.435z M2.466,21.771
+		H24.06v-1.093H2.466V21.771L2.466,21.771z"/>
+</g>
+</svg>

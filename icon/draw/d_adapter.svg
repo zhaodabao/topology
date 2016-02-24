@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="118" height="34" viewBox="0 0 118 34">
+<g>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#4F513F;" points="94.965,15.305 94.965,34.112 117.859,14.198 
+		117.859,0 44.308,0 1.132,15.305 94.965,15.305 	"/>
+	<polyline style="fill:none;stroke:#4F513F;stroke-width:0.2272;stroke-linecap:round;stroke-miterlimit:10;" points="
+		94.965,15.305 94.965,34.112 117.859,14.198 117.859,0 44.308,0 1.132,15.305 94.965,15.305 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#B8B89E;" points="1.132,15.305 94.965,15.305 117.859,0 44.308,0 	"/>
+	<polygon style="fill:none;stroke:#4F513F;stroke-width:0.2272;stroke-linecap:round;stroke-miterlimit:10;" points="1.132,15.305 
+		94.965,15.305 117.859,0 44.308,0 	"/>
+	<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#7C7E5E;" d="M110.525,15.442v2.444l5.809-4.979v-2.028L110.525,15.442
+		L110.525,15.442z M110.525,13.737l6.004-4.655V6.685l-6.004,4.563V13.737L110.525,13.737z M110.525,7.145v2.397l6.004-4.24V2.904
+		L110.525,7.145L110.525,7.145z M97.23,26.184v2.49l9.208-7.468v-2.398L97.23,26.184L97.23,26.184z M97.23,21.527v2.536l9.208-7.191
+		v-2.351L97.23,21.527L97.23,21.527z M97.23,19.407l9.208-6.823v-2.397l-9.208,6.592V19.407L97.23,19.407z"/>
+	<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#646753;" d="M99.152,14.29l1.722-0.829L99.152,14.29L99.152,14.29z
+		 M100.874,13.461H3.052L0,14.29v19.822h99.152l1.722-1.567V13.461L100.874,13.461z"/>
+	<polyline style="fill:none;stroke:#4F513F;stroke-width:0.2272;stroke-linecap:round;stroke-miterlimit:10;" points="99.152,14.29 
+		100.874,13.461 99.152,14.29 	"/>
+	<polyline style="fill:none;stroke:#4F513F;stroke-width:0.2272;stroke-linecap:round;stroke-miterlimit:10;" points="
+		100.874,13.461 3.052,13.461 0,14.29 0,34.112 99.152,34.112 100.874,32.545 100.874,13.461 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#CDCDB4;" points="0,14.29 99.152,14.29 100.874,13.461 3.052,13.461 	
+		"/>
+	<polygon style="fill:none;stroke:#4F513F;stroke-width:0.2272;stroke-linecap:round;stroke-miterlimit:10;" points="0,14.29 
+		99.152,14.29 100.874,13.461 3.052,13.461 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#7C7E5E;" points="0,14.29 0,34.112 99.152,34.112 99.152,14.29 0,14.29 
+			"/>
+	
+		<rect y="14.29" style="fill:none;stroke:#4F513F;stroke-width:0.2272;stroke-linecap:round;stroke-miterlimit:10;" width="99.152" height="19.822"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#4F513F;" points="3.052,18.946 2.905,19.591 2.462,20.053 1.822,20.284 
+		1.231,20.191 0.64,19.822 0.345,19.269 0.345,18.624 0.64,18.116 1.231,17.794 1.822,17.702 2.462,17.932 2.905,18.395 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#4F513F;" points="3.052,29.457 2.905,30.056 2.462,30.426 1.822,30.655 
+		1.231,30.609 0.64,30.287 0.345,29.733 0.345,29.135 0.64,28.581 1.231,28.212 1.822,28.212 2.462,28.351 2.905,28.811 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#5D5E45;" points="21.76,28.949 21.76,18.624 43.078,18.624 
+		39.828,20.191 24.763,20.191 24.763,27.474 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#EBEBDD;" points="21.76,28.949 43.078,28.949 43.078,18.624 
+		39.828,20.191 39.828,27.474 24.763,27.474 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#5D5E45;" points="51.742,23.926 51.742,28.811 52.826,28.027 
+		52.826,24.709 57.354,24.709 58.437,23.926 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#EBEBDD;" points="57.354,24.709 57.354,28.027 52.826,28.027 
+		51.742,28.811 58.437,28.811 58.437,23.926 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#5D5E45;" points="59.372,23.926 59.372,28.811 60.456,28.027 
+		60.456,24.709 65.033,24.709 66.117,23.926 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#EBEBDD;" points="65.033,24.709 65.033,28.027 60.456,28.027 
+		59.372,28.811 66.117,28.811 66.117,23.926 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#5D5E45;" points="67.101,23.926 67.101,28.811 68.085,28.027 
+		68.085,24.709 72.664,24.709 73.748,23.926 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#EBEBDD;" points="72.664,24.709 72.664,28.027 68.085,28.027 
+		67.101,28.811 73.748,28.811 73.748,23.926 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#5D5E45;" points="74.781,23.926 74.781,28.811 75.816,28.027 
+		75.816,24.709 80.343,24.709 81.427,23.926 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#EBEBDD;" points="80.343,24.709 80.343,28.027 75.816,28.027 
+		74.781,28.811 81.427,28.811 81.427,23.926 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#4F513F;" points="98.559,18.946 98.462,18.395 97.971,17.932 
+		97.378,17.702 96.738,17.794 96.198,18.116 95.903,18.624 95.903,19.269 96.198,19.822 96.738,20.191 97.378,20.284 97.971,20.053 
+		98.462,19.591 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#4F513F;" points="98.559,29.457 98.462,28.811 97.971,28.351 
+		97.378,28.212 96.738,28.212 96.198,28.581 95.903,29.135 95.903,29.733 96.198,30.287 96.738,30.609 97.378,30.655 97.971,30.426 
+		98.462,30.056 	"/>
+	<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#4F513F;" d="M8.714,25.169v2.489h9.846v-2.489H8.714L8.714,25.169z
+		 M8.714,19.822v2.488h9.846v-2.488H8.714L8.714,19.822z"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#ACAC91;" points="3.545,14.29 3.545,34.112 5.957,34.112 5.957,14.29 
+		3.545,14.29 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#4F513F;" points="3.545,14.29 3.545,34.112 4.726,34.112 4.726,14.29 
+		3.545,14.29 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#ACAC91;" points="92.947,14.29 92.947,34.112 95.361,34.112 
+		95.361,14.29 92.947,14.29 	"/>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#4F513F;" points="92.947,14.29 92.947,34.112 94.13,34.112 94.13,14.29 
+		92.947,14.29 	"/>
+</g>
+</svg>
