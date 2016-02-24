@@ -19,6 +19,7 @@ Edit Screenshot
 ## 特性 Feature
 
 ## 贡献 Contribution
+[Zhao Chengjia](https://github.com/zhaodabao)
 Wang Zhenhua <wangzhenhua1020@126.com>  
 [Lu Qin](https://github.com/luqin)
 
