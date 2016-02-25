@@ -7,8 +7,8 @@ Network topologic structure is a diagram that consists of network node equipment
 This solution is a complex html5 graphical system, be used to telecom/enterprise user. Graphical based on SVG, and equips with a series of UI kits, then you can be more intuitive to understand how the project works.  
   
 
-Topology其实是在2013年开发的, 需要说明的是, 在GitHub上的这个Topology是一个简单的示例, 原因是: 首先我只保留了前端部分(服务端是很次要的); 其次完整的Topology涵盖了很多的图形化解决方案(如业务影响性&关联性,VPN虚拟专用网,云环境虚拟化资源网等), 只有简化才能更好的聚焦在技术上.  
-Topology was developed in 2013, to be clear, the Topology in GitHub is just a simple example, or a thin version. The reason: Firstly, I retain the part of rich client only(the Server is secondary); Secondly, the integrated Topology include a lots of graphics solutions(such as BI diagram, virtual private networks, virtualized resources networks in cloud computing, etc.), let's simplify it, and take the focus on the technology.  
+Topology其实是在2013年开发的, 需要说明的是, 在GitHub上的这个Topology是一个**简单的示例**, 原因是: 首先我只保留了前端部分(服务端是很次要的); 其次完整的Topology涵盖了很多的图形化解决方案(如业务影响性&关联性,VPN虚拟专用网,云环境虚拟化资源网等), 只有简化才能更好的聚焦在技术上.  
+Topology was developed in 2013, to be clear, the Topology in GitHub is just a **simple example**, or a thin version. The reason: Firstly, I retain the part of rich client only(the Server is secondary); Secondly, the integrated Topology include a lots of graphics solutions(such as BI diagram, virtual private networks, virtualized resources networks in cloud computing, etc.), let's simplify it, and take the focus on the technology.  
 
 ## 效果预览 Screenshot
 Main Screenshot  
@@ -18,10 +18,10 @@ Edit Screenshot
 
 ## 特性 Feature
 
-## 贡献 Contribution
+## 作者 Authors
 [Zhao Chengjia](https://github.com/zhaodabao)  
 Wang Zhenhua <wangzhenhua1020@126.com>  
 [Lu Qin](https://github.com/luqin)
 
 ## 协议 License
-GPL, GNU GENERAL PUBLIC LICENSE
+Topology is published under the GPL license.
