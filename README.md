@@ -60,7 +60,7 @@ Android Chrome | 47+
   Add more graphics rendering, like highlight
 * Bootstrap风格引入  
   Add Bootstrap style
-* 逐步发布源码文件  
+* 逐步发布源代码文件  
   Release the source code file
 
 ## 作者 Authors
