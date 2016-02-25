@@ -16,12 +16,23 @@ Main Screenshot
 Edit Screenshot  
 ![screenshot 2](https://github.com/zhaodabao/topology/raw/master/images/preview/preview2.png "Edit Screenshot")
 
+## 指南 Guide
+1. 因为文件较多, 建议下载ZIP(4.9M)并解压缩使用.  
+2. 
+
 ## 特性 Feature
-* 完全矢量化, 缩放不失真  Vectorization, zoom not distortion
-* 与MS Visio相似的绘图体验  Similar to MS Visio
-* 所见即所得的图形定制  WYSIWYG
-* 支持导出为PNG或JPG格式的位图, 或导出为PDF格式的矢量图(需要服务端Java)  Support for export to a PNG or JPG, or export to vectorization PDF(need Java)
-* 支持快捷键操作  Support shortcuts
+* 完全矢量化, 缩放不失真  
+  Vectorization, zoom not distortion
+* 与MS Visio相似的绘图体验  
+  Similar to MS Visio
+* 所见即所得的图形定制  
+  WYSIWYG
+* 支持导出为PNG或JPG格式的位图, 或导出为PDF格式的矢量图(需要服务端Java)  
+  Support for export to a PNG or JPG, or export to vectorization PDF(need Java)
+* 支持快捷键操作  
+  Support shortcuts
+* 支持鹰眼  
+  Support eagle eye
 
 ## 作者 Authors
 [Zhao Chengjia](https://github.com/zhaodabao)  
