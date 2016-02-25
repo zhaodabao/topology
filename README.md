@@ -17,8 +17,14 @@ Edit Screenshot
 ![screenshot 2](https://github.com/zhaodabao/topology/raw/master/images/preview/preview2.png "Edit Screenshot")
 
 ## 指南 Guide
-1. 因为文件较多, 建议下载ZIP(4.9M)并解压缩使用.  
-2. 
+1. 因为文件较多, 所以建议下载ZIP(4.9M)并解压缩查看.  
+   Because there are a lot of files in Topology, suggest to download ZIP(4.9M).
+2. 打开根目录下的main.html即可浏览.  
+   Open the main.html file that in the root directory.
+3. 名字为blank的视图可以让您体验图形编辑功能.  
+   The view which named blank allows you to experience the graphical editing.
+4. 更多的功能说明将逐步补充.  
+   More usage will be added later.
 
 ## 特性 Feature
 * 完全矢量化, 缩放不失真  
