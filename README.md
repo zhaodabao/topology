@@ -21,8 +21,8 @@ Edit Screenshot
    Because there are a lot of files in Topology, suggest to download ZIP(4.9M).
 2. 打开根目录下的main.html即可浏览.  
    Open the main.html file that in the root directory.
-3. 名字为blank的视图可以让您体验图形编辑功能.  
-   The view which named blank allows you to experience the graphical editing.
+3. 名字为***blank***的视图可以让您体验图形编辑功能.  
+   The view which named ***blank*** allows you to experience the graphical editing.
 4. 更多的功能说明将逐步补充:)  
    More usage will be added later:)
 
