@@ -62,6 +62,8 @@ Android Chrome | 47+
   Add Bootstrap style
 * 逐步发布源代码文件  
   Release the source code file
+* 让它做更多! 如UML图, 流程图, 等等  
+  Let it do more! UML, Flow, etc
 
 ## 作者 Authors
 [Zhao Chengjia](https://github.com/zhaodabao)  
