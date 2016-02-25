@@ -40,6 +40,17 @@ Edit Screenshot
 * 支持鹰眼  
   Support eagle eye
 
+## 浏览器兼容性 Compatibility
+BROWSER | DETAIL
+------------ | -------------
+Internet Explorer | 6.0 - 8.0 need to install Adobe SvgViewer; 9.0 is not support filters; 10.0+ partial support transforms, filters, etc; All versions of Internet Explorer is not support SMIL animation. Not recommended.
+Google Chrome | 45+, Recommended.
+Firefox | 43+
+Opera | 34+
+Safari | 9+
+iOS Safari | 8.4+
+Android Chrome | 47+
+
 ## 计划列表 TODO List
 * 撤销和重做  
   Undo and redo
