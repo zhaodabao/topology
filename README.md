@@ -23,8 +23,8 @@ Edit Screenshot
    Open the main.html file that in the root directory.
 3. 名字为blank的视图可以让您体验图形编辑功能.  
    The view which named blank allows you to experience the graphical editing.
-4. 更多的功能说明将逐步补充.  
-   More usage will be added later.
+4. 更多的功能说明将逐步补充:)  
+   More usage will be added later:)
 
 ## 特性 Feature
 * 完全矢量化, 缩放不失真  
@@ -39,6 +39,18 @@ Edit Screenshot
   Support shortcuts
 * 支持鹰眼  
   Support eagle eye
+
+## 计划列表 TODO List
+* 撤销和重做  
+  Undo and redo
+* 对折线的编辑做增强  
+  Strengthen the polyline editing functions
+* 增加更多图形渲染效果, 如发光高亮  
+  Add more graphics rendering, like highlight
+* Bootstrap风格引入  
+  Add Bootstrap style
+* 逐步发布源码文件  
+  Release the source code file
 
 ## 作者 Authors
 [Zhao Chengjia](https://github.com/zhaodabao)  
