@@ -55,7 +55,7 @@ Android Chrome | 47+
 * 撤销和重做  
   Undo and redo
 * 对折线的编辑做增强  
-  Strengthen the polyline editing functions
+  Strengthen the functions of polyline editing 
 * 增加更多图形渲染效果, 如发光高亮  
   Add more graphics rendering, like highlight
 * Bootstrap风格引入  
