@@ -20,6 +20,10 @@ Topology其实是在2013年开发的, 需要说明的是, 在GitHub上的这个T
 移动端 (iOS Safari)  
 ![移动端](./images/preview/mobile.png "移动端 (iOS Safari)")
 
+## 在线示例
+在示例页面打开后将会加载资源, 请您耐心等待. 推荐使用Google Chrome浏览器观看.  
+[在线示例](https://zhaodabao.github.io/topology/main.html?type=1)
+
 ## 指南
 1. 因为文件较多, 所以建议下载ZIP(4.9M)并解压缩查看.
 2. 打开根目录下的main.html即可浏览.
