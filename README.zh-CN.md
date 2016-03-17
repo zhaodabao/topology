@@ -12,9 +12,13 @@ Topology其实是在2013年开发的, 需要说明的是, 在GitHub上的这个T
 
 ## 效果预览
 主界面截图  
-![screenshot 1](./images/preview/preview1.png "主界面")  
+![主界面截图](./images/preview/preview1.png "主界面")  
+
 编辑界面截图  
-![screenshot 2](./images/preview/preview2.png "编辑页面")
+![编辑界面截图](./images/preview/preview2.png "编辑页面")  
+
+移动端 (iOS Safari)  
+![移动端](./images/preview/mobile.png "移动端 (iOS Safari)")
 
 ## 指南
 1. 因为文件较多, 所以建议下载ZIP(4.9M)并解压缩查看.
