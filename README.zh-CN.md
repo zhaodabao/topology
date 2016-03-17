@@ -41,9 +41,9 @@ Topology其实是在2013年开发的, 需要说明的是, 在GitHub上的这个T
 ## 浏览器兼容性
 浏览器 | 细节
 ------------ | -------------
-Internet Explorer | 6.0 - 8.0 需要安装 Adobe SvgViewer; 9.0 不支持滤镜; 10.0+ 部分支持变形、滤镜等; 所有版本的IE均不支持 SMIL 动画. 不推荐使用.
 Google Chrome | 45+, 推荐.
 Firefox | 43+
+Internet Explorer | 6.0 - 8.0 需要安装 Adobe SvgViewer; 9.0 不支持滤镜; 10.0+ 部分支持变形、滤镜等; 所有版本的IE均不支持 SMIL 动画. 不推荐使用.
 Opera | 34+
 Safari | 9+
 iOS Safari | 8.4+
