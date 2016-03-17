@@ -56,6 +56,7 @@ Android Chrome | 47+
 ## TODO List
 
 - Undo and redo
+- Support mobile operation and Responsive UI
 - Increase the editional functions of polyline
 - Add more graphics rendering, like highlight
 - Add Bootstrap style
