@@ -22,6 +22,10 @@ Edit Screenshot
 Mobile (iOS Safari)  
 ![mobile](./images/preview/mobile.png "Mobile (iOS Safari)")
 
+## Online Demo
+Resources will be loading after the page open, please be patient. Recommended use Google Chrome to browsing.  
+[Online Demo](https://zhaodabao.github.io/topology/main.html?type=1)
+
 ## Getting Started
 1. Because there are a lot of files in Topology, suggest to download ZIP(4.9M).
 2. Open the main.html file that in the root directory.
