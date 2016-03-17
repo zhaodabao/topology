@@ -15,6 +15,7 @@ Topology was developed in 2013, to be clear, the Topology in GitHub is just a **
 
 Main Screenshot  
 ![screenshot 1](./images/preview/preview1.png "Main Screenshot")  
+
 Edit Screenshot  
 ![screenshot 2](./images/preview/preview2.png "Edit Screenshot")
 
