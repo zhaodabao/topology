@@ -2,76 +2,57 @@
 
 [English](./README.md)
 
-## 网络拓扑 Network Topology
-网络拓扑是指由网络节点设备和通信介质构成的网络结构图(来自百度百科).  
-Network topologic structure is a diagram that consists of network node equipment and communication medium(from Baidu baike).
-## 项目简介 About Project
-这个Repository提供的网络拓扑, 是一套完整可用的面向电信级/企业级用户的HTML5网络拓扑图方案. 图形是基于SVG绘制的, 同时配备了一系列UI套件, 使您更直观的了解Topology是如何工作的.  
-This solution is a complex html5 graphical system, be used to telecom/enterprise user. Graphical based on SVG, and equips with a series of UI kits, then you can be more intuitive to understand how the project works.  
+## 网络拓扑
+网络拓扑是指由网络节点设备和通信介质构成的网络结构图(来自百度百科).
 
+## 项目简介
+这个Repository提供的网络拓扑, 是一套完整可用的面向电信级/企业级用户的HTML5网络拓扑图方案. 图形是基于SVG绘制的, 同时配备了一系列UI套件, 使您更直观的了解Topology是如何工作的. 
 
-Topology其实是在2013年开发的, 需要说明的是, 在GitHub上的这个Topology是一个**简单的示例**, 原因是: 首先我只保留了前端部分(服务端是很次要的); 其次完整的Topology涵盖了很多的图形化解决方案(如业务影响性&关联性,VPN虚拟专用网,云环境虚拟化资源网等), 只有简化才能更好的聚焦在技术上.  
-Topology was developed in 2013, to be clear, the Topology in GitHub is just a **simple example**, or a thin version. The reason: Firstly, I retain the part of rich client only(the Server is secondary); Secondly, the integrated Topology include a lots of graphics solutions(such as BI diagram, virtual private networks, virtualized resources networks in cloud computing, etc.), let's simplify it, and take the focus on the technology.  
+Topology其实是在2013年开发的, 需要说明的是, 在GitHub上的这个Topology是一个**简单的示例**, 原因是: 首先我只保留了前端部分(服务端是很次要的); 其次完整的Topology涵盖了很多的图形化解决方案(如业务影响性&关联性,VPN虚拟专用网,云环境虚拟化资源网等), 只有简化才能更好的聚焦在技术上.
 
-## 效果预览 Screenshot
-Main Screenshot  
-![screenshot 1](./images/preview/preview1.png "Main Screenshot")  
-Edit Screenshot  
-![screenshot 2](./images/preview/preview2.png "Edit Screenshot")
+## 效果预览
+主界面截图  
+![screenshot 1](./images/preview/preview1.png "主界面")  
+编辑界面截图  
+![screenshot 2](./images/preview/preview2.png "编辑页面")
 
-## 指南 Guide
-1. 因为文件较多, 所以建议下载ZIP(4.9M)并解压缩查看.  
-   Because there are a lot of files in Topology, suggest to download ZIP(4.9M).
-2. 打开根目录下的main.html即可浏览.  
-   Open the main.html file that in the root directory.
-3. 名字为***blank***的视图可以让您体验图形编辑功能.  
-   The view which named ***blank*** allows you to experience the graphical editing.
-4. 更多的功能说明将逐步补充:)  
-   More usage will be added later:)
+## 指南
+1. 因为文件较多, 所以建议下载ZIP(4.9M)并解压缩查看.
+2. 打开根目录下的main.html即可浏览.
+3. 名字为***blank***的视图可以让您体验图形编辑功能.
+4. 更多的功能说明将逐步补充:)
 
-## 特性 Feature
-* 完全矢量化, 缩放不失真  
-  Vectorization, zoom not distortion
-* 与MS Visio相似的绘图体验  
-  Similar to MS Visio
-* 所见即所得的图形定制  
-  WYSIWYG
-* 支持导出为PNG或JPG格式的位图, 或导出为PDF格式的矢量图(需要服务端Java)  
-  Support for export to a PNG or JPG, or export to vectorization PDF(need Java)
-* 支持快捷键操作  
-  Support shortcuts
-* 支持鹰眼  
-  Support eagle eye
+## 特性
+* 完全矢量化, 缩放不失真
+* 与MS Visio相似的绘图体验
+* 所见即所得的图形定制
+* 支持导出为PNG或JPG格式的位图, 或导出为PDF格式的矢量图(需要服务端Java)
+* 支持快捷键操作
+* 支持鹰眼
 
-## 浏览器兼容性 Compatibility
-BROWSER | DETAIL
+## 浏览器兼容性
+浏览器 | 细节
 ------------ | -------------
-Internet Explorer | 6.0 - 8.0 need to install Adobe SvgViewer; 9.0 is not support filters; 10.0+ partial support transforms, filters, etc; All versions of Internet Explorer is not support SMIL animation. Not recommended.
-Google Chrome | 45+, Recommended.
+Internet Explorer | 6.0 - 8.0 需要安装 Adobe SvgViewer; 9.0 不支持滤镜; 10.0+ 部分支持变形、滤镜等; 所有版本的IE均不支持 SMIL 动画. 不推荐使用.
+Google Chrome | 45+, 推荐.
 Firefox | 43+
 Opera | 34+
 Safari | 9+
 iOS Safari | 8.4+
 Android Chrome | 47+
 
-## 计划列表 TODO List
-* 撤销和重做  
-  Undo and redo
-* 对折线的编辑做增强  
-  Increase the editional functions of polyline
-* 增加更多图形渲染效果, 如发光高亮  
-  Add more graphics rendering, like highlight
-* Bootstrap风格引入  
-  Add Bootstrap style
-* 逐步发布源代码文件  
-  Release the source code file
-* 让它做更多! 如UML图, 流程图, 等等  
-  Let it do more! UML, Flow, etc
+## 计划列表
+* 撤销和重做
+* 对折线的编辑做增强
+* 增加更多图形渲染效果, 如发光高亮
+* Bootstrap风格引入
+* 逐步发布源代码文件
+* 让它做更多! 如UML图, 流程图, 等等
 
-## 作者 Authors
-[Zhao Chengjia](https://github.com/zhaodabao)  
-Wang Zhenhua <wangzhenhua1020@126.com>  
-[Lu Qin](https://github.com/luqin)
+## 作者
+[赵 程佳](https://github.com/zhaodabao)  
+[王 振华](https://github.com/wangzhenhua1020)  
+[卢 秦](https://github.com/luqin)
 
 ## 协议 License
-Topology is published under the GPL license.
+Topology 基于 GPL 协议发布.
