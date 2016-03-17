@@ -16,6 +16,13 @@ Main Screenshot
 Edit Screenshot  
 ![screenshot 2](https://github.com/zhaodabao/topology/raw/master/images/preview/preview2.png "Edit Screenshot")
 
+## 在线示例 Online Demo
+在示例页面打开后将会加载资源, 请您耐心等待. 推荐使用Google Chrome浏览器观看.
+
+Resources will be loading after the page open, please be patient. Recommended use Google Chrome to browsing.
+
+[示例 Demo](http://htmlpreview.github.io/?https://github.com/zhaodabao/topology/master/main.html?type=1)  
+
 ## 指南 Guide
 1. 因为文件较多, 所以建议下载ZIP(4.9M)并解压缩查看.  
    Because there are a lot of files in Topology, suggest to download ZIP(4.9M).
