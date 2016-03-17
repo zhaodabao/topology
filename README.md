@@ -67,7 +67,7 @@ Android Chrome | 47+
 
 [Zhao Chengjia](https://github.com/zhaodabao)  
 [Wang Zhenhua](https://github.com/wangzhenhua1020)  
-[Lu Qin](https://github.com/luqin)
+[Lu Qin](https://github.com/luqin)  
 
 ## License
 
