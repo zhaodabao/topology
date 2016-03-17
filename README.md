@@ -33,13 +33,15 @@ Edit Screenshot
 - Support shortcuts
 - Support eagle eye
 
-## Compatibility
+## Browser Support
+
+Topology runs best on WebKit based browsers.
 
 BROWSER | DETAIL
 ------------ | -------------
-Internet Explorer | 6.0 - 8.0 need to install Adobe SvgViewer; 9.0 is not support filters; 10.0+ partial support transforms, filters, etc; All versions of Internet Explorer is not support SMIL animation. Not recommended.
 Google Chrome | 45+, Recommended.
 Firefox | 43+
+Internet Explorer | 6.0 - 8.0 need to install Adobe SvgViewer; 9.0 is not support filters; 10.0+ partial support transforms, filters, etc; All versions of Internet Explorer is not support SMIL animation. Not recommended.
 Opera | 34+
 Safari | 9+
 iOS Safari | 8.4+
