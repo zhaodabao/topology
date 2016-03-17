@@ -67,7 +67,7 @@ Android Chrome | 47+
 
 ## 作者 Authors
 [Zhao Chengjia](https://github.com/zhaodabao)  
-Wang Zhenhua <wangzhenhua1020@126.com>  
+[Wang Zhenhua](https://github.com/wangzhenhua1020)  
 [Lu Qin](https://github.com/luqin)
 
 ## 协议 License
