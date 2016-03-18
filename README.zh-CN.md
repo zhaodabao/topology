@@ -59,9 +59,9 @@ Android Chrome | 47+
 * 让它做更多! 如UML图, 流程图, 等等
 
 ## 作者
-[Zhao Chengjia](https://github.com/zhaodabao)  
-[Wang Zhenhua](https://github.com/wangzhenhua1020)  
-[Lu Qin](https://github.com/luqin)
+[@zhaodabao](https://github.com/zhaodabao)  
+[@wangzhenhua](https://github.com/wangzhenhua1020)  
+[@luqin](https://github.com/luqin)
 
 ## 协议 License
 Topology 基于 GPL 协议发布.
