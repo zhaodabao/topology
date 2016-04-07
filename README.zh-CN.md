@@ -39,7 +39,9 @@ Topology其实是在2013年开发的, 需要说明的是, 在GitHub上的这个T
 * 支持鹰眼
 
 ## 浏览器兼容性
-Topology在WebKit引擎浏览器上运行的最好.
+
+Topology在WebKit引擎的浏览器上运行的最好.
+
 浏览器 | 细节
 ------------ | -------------
 Google Chrome | 45+, 推荐.
